@@ -80,6 +80,11 @@ hash = "f43889f09d010095410c82672a394fe773fe44510a967ff5e186ba1e1adc7167"
 metafile = true
 
 [[files]]
+file = "mods/born-in-chaos-neoforge-1-21-1-1-7-6.pw.toml"
+hash = "822122565715a837f5e232d920a17a6e5a6ecf8bf435adb008420b2138d109c2"
+metafile = true
+
+[[files]]
 file = "mods/cbc-going-ballistic-0-2-1.pw.toml"
 hash = "7d70e8cdc3c9b05535f796de475b300e9e86ea9398370708460511ef498fb2f7"
 metafile = true
@@ -191,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
-hash = "7a1fda4f63caa6a9837638492f1c5e0ea2bd5b50054b41c2d8e2d16a08877e9f"
+hash = "d05f9df389352389b9a5a9e1eb54dcacdbdebed458ecdfa9db99ba36ff74d8e0"
 metafile = true
 
 [[files]]
@@ -245,6 +250,11 @@ hash = "108c17062ef9181673949ab4a0a4d2d04927b3f0b531e456e4fc81bf1449c774"
 metafile = true
 
 [[files]]
+file = "mods/farmersdelight-1-21-1-1-3-2.pw.toml"
+hash = "18d1f214a44bf715b5d17af8887c3bc08b9be3477a733ce80e0abf951b24527b"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-7-0-3-neoforge.pw.toml"
 hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
@@ -256,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib-neoforge-1-21-1-4-9-2.pw.toml"
-hash = "a78e6392acb7981827739dc83ba54a696a85cc903bdad4b656df8be1e161204c"
+hash = "ea5141b2d4db45a89903c8d3bac51ce8b6c888c38e16d86315da7fa883f69a9f"
 metafile = true
 
 [[files]]
@@ -300,6 +310,11 @@ hash = "bf6f841085b7aa04735832a32971acfc9483958e44d9b9c5ea0f3469a999b94b"
 metafile = true
 
 [[files]]
+file = "mods/irons-spellbooks-1-21-1-3-15-2.pw.toml"
+hash = "44605f8117455fa9944e570cb581a346be88ebc2cd5805ee3705940512910b74"
+metafile = true
+
+[[files]]
 file = "mods/irons-spellbooks-1-21-1-3-16-2.pw.toml"
 hash = "d98a79e02419b3a778d4ef957c0189b9307b3adb5b77a8b0540f6ea41c643bc8"
 metafile = true
@@ -332,6 +347,16 @@ metafile = true
 [[files]]
 file = "mods/kotlinforforge-5-12-0-all.pw.toml"
 hash = "6712beb0a3e298cbc49017e479b5e39735d52ebbbfc168cf80ca4d6f13ab6746"
+metafile = true
+
+[[files]]
+file = "mods/l-ender-s-cataclysm-1-21-1-3-32.pw.toml"
+hash = "f8d9c8e0bf78afc95794627fac6056dfdcb7b42829a0e759cbb834d169ed217f"
+metafile = true
+
+[[files]]
+file = "mods/lionfishapi-3-1.pw.toml"
+hash = "48ce7eade576bcc2ee69298b955c2420458602ec604c9291847b523cbb9c82bf"
 metafile = true
 
 [[files]]
@@ -492,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-neoforge-0-8-12-mc1-21-1.pw.toml"
 hash = "dd9dc09af33d68dca150c03a921a80a0489afd15a1e5623eb4d4a2ced05b5950"
+metafile = true
+
+[[files]]
+file = "mods/somakespells-1-0-1.pw.toml"
+hash = "3afed87d81d8d246a1f8e2b4828b72b4605c33df2fd813215a82c4412d2d97fd"
 metafile = true
 
 [[files]]
