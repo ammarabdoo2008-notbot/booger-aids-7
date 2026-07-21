@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aces-spell-utils-1-1-23-1-21-1.pw.toml"
+hash = "349f5f4d07340134997f79bb8c8fae2923d0179bffa3be597db0f46f9a612478"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis-1-21-1-8-6-0.pw.toml"
 hash = "0cda297cd8d8bab7804cbc778b1707cc8f5ec5870f97abe6f2294b8180018e37"
 metafile = true
@@ -46,6 +51,11 @@ hash = "51cebf95b0426c364d0159f5e18a5dad5b7fad06f63b3bceae5a7ec2cdd65237"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-neo-1-21-1-3-1-11.pw.toml"
+hash = "0fc0ea1cd769696367c54e04f0a361916b6edf5fefe89b1d88d542d952fe2f94"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-neoforge-1-21-1-21-1-81.pw.toml"
 hash = "f43889f09d010095410c82672a394fe773fe44510a967ff5e186ba1e1adc7167"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config-15-0-140-neoforge.pw.toml"
 hash = "1a07e0e1f50932acbe39335133935c96b0a5316764eb635703e7c8c90e947d50"
+metafile = true
+
+[[files]]
+file = "mods/cobweb-neoforge-1-21-1-4-0.pw.toml"
+hash = "bb43e0939e94bbb505da1cc716e2c33ae07ff8e07679b001cbec34535345a5f8"
 metafile = true
 
 [[files]]
@@ -161,6 +176,11 @@ hash = "aec5a2bfcc9a8c5af47f838dd43527529cf0de47a7a99661eeb1a5a368e26783"
 metafile = true
 
 [[files]]
+file = "mods/discerning-the-eldritch-1-4-3-1-21.pw.toml"
+hash = "de8603716d72715b433137b934327bf05453197d7be7cde5af71c10f9a72eed1"
+metafile = true
+
+[[files]]
 file = "mods/dream-relics-1-0-3-neoforge-mc1-21-1.pw.toml"
 hash = "30df1fb11ab96d59e397e588009b665a1aebac9f8c80fb31256c2e92d5ede99e"
 metafile = true
@@ -206,6 +226,11 @@ hash = "0dc5007b8f36a7eec3c21285febcdf2dcc8a246011a835f6627883f2b78d58ce"
 metafile = true
 
 [[files]]
+file = "mods/incantation-0-9-3.pw.toml"
+hash = "1d5f123a2bb91324ba1d9182d4b4a2b02e32ba91e8cdd8d76a45192fb11c1c9f"
+metafile = true
+
+[[files]]
 file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
 hash = "064f8ee970317106e1f36f32f4bb412b45d87a3e5ecfedb90f06b899e6952454"
 metafile = true
@@ -233,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/jade-1-21-1-neoforge-15-10-5.pw.toml"
 hash = "7f895242773772668edd141f4610e22dc99fd108191c7b93bfadf4af316515d4"
+metafile = true
+
+[[files]]
+file = "mods/jadeaddons-1-21-1-neoforge-6-1-0.pw.toml"
+hash = "33686342468da6a6d0fe0710ad945bc66b2e9a24d84ed847f90b018501fa3035"
 metafile = true
 
 [[files]]
@@ -316,6 +346,11 @@ hash = "e863ac6a3880959d299896cebda47fbe1a16b7c784983b091ac41942aefa55c5"
 metafile = true
 
 [[files]]
+file = "mods/prometheus-neoforge-1-21-1-2-5.pw.toml"
+hash = "39c39bb691265af88b92050c8cd2945ba58f4bb866762350c3179cfd311c2c64"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options-neoforge-2-2-3-mc1-21-1.pw.toml"
 hash = "bcc17731e029d874cc31682ca34a466c56feb98d26307ba332ec05db4ecdc169"
 metafile = true
@@ -343,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"
 hash = "f7f4332c982c99cc3d6c740668cbfd9b2b966044b5e29ae5955eb2e1b057875a"
+metafile = true
+
+[[files]]
+file = "mods/sablejade-1-2-1.pw.toml"
+hash = "1e4e7050ba84a9c1c044539c1760d37ceb6f5218aeb9a2efb5f0b1e5466c2dfe"
 metafile = true
 
 [[files]]
@@ -396,6 +436,11 @@ hash = "82cc538be3e3dfbc44ab19e18d87d46e5e5080b880f57dcb650cc0e2a2f2f9d3"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d-neoforge-1-21-6-1-0.pw.toml"
+hash = "ca5d8df3414829f3fa493b35b9cd12a98a5b7e110071ccaa15af8fc36cbbfbf8"
+metafile = true
+
+[[files]]
 file = "mods/tectonic-3-0-26-neoforge-21-1.pw.toml"
 hash = "82941e2d9547d60fac8ef584c4cb7af2bda390544f637fa5c7e3e6430b53d50a"
 metafile = true
@@ -413,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/trading-floor-3-0-16.pw.toml"
 hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-neoforge-1-21-1-2-6-21.pw.toml"
+hash = "a0d5c0dd3e6cf5c2927ca322371e2e2257c0aae6b028d488426a51e2e195a7ef"
 metafile = true
 
 [[files]]
