@@ -351,6 +351,11 @@ hash = "3e4f10e6a4af780cc628cfec8a59c3aeaf28a986761ab7973168e8571a22b4bc"
 metafile = true
 
 [[files]]
+file = "mods/simplenicknames-1-21-1-neoforge-0-6-0.pw.toml"
+hash = "0e545db9080fe07692662b584fbc53057da73989f9a51fc445c98f98c707c5c2"
+metafile = true
+
+[[files]]
 file = "mods/simulated-gauges-1-1-0.pw.toml"
 hash = "7ed2b2d788dee33e05c8ddacd2066c719a9c062a05c07b0ae16bfd969d858e2d"
 metafile = true
@@ -358,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/skinlayers3d-neoforge-1-11-2-mc1-21-1.pw.toml"
 hash = "c7ad5bbd7aca377ba99dd00973e137b142846644272fc0832a060c23255f9799"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer-2-9-0-1-21-neoforge.pw.toml"
+hash = "bdb7ebc705b5f7f393dbcbebb2874832fff3aba1b86d531b2a93e68d26fc9149"
 metafile = true
 
 [[files]]
