@@ -71,17 +71,17 @@ hash = "7c2a1a2ed7711cd9d55294b4dfb567cf4b49b52a1851a706d9946d177e44f544"
 metafile = true
 
 [[files]]
+file = "mods/balm-neoforge-1-21-1-21-0-63.pw.toml"
+hash = "7d9728d9110ef218876c98a237e6463f9da65c5c9f2bfb556d41b9f66a21298a"
+metafile = true
+
+[[files]]
 file = "mods/boogeraids-1.1-balls_edition.jar"
 hash = "42843bdbb89130b861d257ed8f0b183de8c5a1f94734782bf3e6db339111dd7a"
 
 [[files]]
 file = "mods/bookshelf-neoforge-1-21-1-21-1-81.pw.toml"
 hash = "f43889f09d010095410c82672a394fe773fe44510a967ff5e186ba1e1adc7167"
-metafile = true
-
-[[files]]
-file = "mods/born-in-chaos-neoforge-1-21-1-1-7-6.pw.toml"
-hash = "822122565715a837f5e232d920a17a6e5a6ecf8bf435adb008420b2138d109c2"
 metafile = true
 
 [[files]]
@@ -97,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/carryonaerocompat-1-21-1-1-1-1.pw.toml"
 hash = "c568b9792186cd5feabaad59d2974b21a32385403e282615a9a61b20db05b220"
+metafile = true
+
+[[files]]
+file = "mods/cats-dont-care-1-0-1-1-21-1-neoforge.pw.toml"
+hash = "d9fd54e8bfc2b2b309e771a1da3cb28b2b3e788eb516fbe68208f9b2a2e4d9f8"
 metafile = true
 
 [[files]]
@@ -135,23 +140,18 @@ hash = "bb43e0939e94bbb505da1cc716e2c33ae07ff8e07679b001cbec34535345a5f8"
 metafile = true
 
 [[files]]
-file = "mods/connector-2-0-0-beta-15-1-21-1-full.pw.toml"
-hash = "d938e56bec2e2d5135fa25ac0465114900fb2885967a9b6305ae5cd73e93e796"
-metafile = true
-
-[[files]]
-file = "mods/continuity-3-0-0-1-21-neoforge.pw.toml"
-hash = "5a0511c4ed25a5a71aa98fba840ae677f8cc30f75f6cc5af118173235decd065"
-metafile = true
-
-[[files]]
 file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
 hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
 metafile = true
 
 [[files]]
+file = "mods/coopmod-1-0-0.pw.toml"
+hash = "2fbba6dd44739616ae752f470c0ec0a8f372e8d6c8118e4771ad8a6fce8baa3c"
+metafile = true
+
+[[files]]
 file = "mods/create-1-21-1-6-0-10.pw.toml"
-hash = "ebdda79db558d7c222be3b12be52350856bf07f6021d0b84419dfc7312969c00"
+hash = "e9ad0b607d89f85b27ec14444b10ff6952cfdb79c6e6f0be4e3e61110b62e1f7"
 metafile = true
 
 [[files]]
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/create-avionics-neoforge-1-21-1-0-5-1.pw.toml"
 hash = "4bf3ba558f5985ce48eb3f9baa64d4358fc4ff6548f8c24c5063f7544421da37"
+metafile = true
+
+[[files]]
+file = "mods/create-cats-dont-care-0-0-2-1-21-1-neoforge.pw.toml"
+hash = "476792ccfe676b937d366b13bf3399b0e570677720fc1a82aace6bb4bef77c5d"
 metafile = true
 
 [[files]]
@@ -275,11 +280,6 @@ hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0-116-14-2-3-0-1-21-1.pw.toml"
-hash = "f3cc90c3adb92f2bc386241a7d13f96d784401f8fad796a2ed0627ab5a493c9d"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-neoforge-2101-1-33.pw.toml"
 hash = "5842a80a3b5b74e096e48275515680c42a4cfc8b261998fa5b7ce348699314ab"
 metafile = true
@@ -287,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-neoforge-2101-1-15.pw.toml"
 hash = "3ba82e5f7671f30107202e2acd560f41d01872afaa8fefbd469ae8b5d12f2b40"
+metafile = true
+
+[[files]]
+file = "mods/full-moon-only-black-cats-1-0-0-1-21-3.pw.toml"
+hash = "d7eb04f2bfaddb09843f0dd06f844b0d567bc7704bba5c8c4c7240747aff5f25"
 metafile = true
 
 [[files]]
@@ -435,6 +440,11 @@ hash = "2210406a8cd394e410c8ea9dead6377358a6ec6e49562246ec2d1b6a718b339d"
 metafile = true
 
 [[files]]
+file = "mods/polymorph-neoforge-1-1-0-1-21-1.pw.toml"
+hash = "6c70728e1bdb9cefdf60acc2abe40c890b6ec65c1e21f52205d863073a250b73"
+metafile = true
+
+[[files]]
 file = "mods/prickle-neoforge-1-21-1-21-1-11.pw.toml"
 hash = "e863ac6a3880959d299896cebda47fbe1a16b7c784983b091ac41942aefa55c5"
 metafile = true
@@ -526,12 +536,27 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1-21-1-3-25-71-1997.pw.toml"
-hash = "2004da60db9ce9a91a0364f9e676e1623724d7ce6f359620e83d7b632c740ea6"
+hash = "696396aa4dc2e9f60de94a018046db78ae59e01fea4d2f95dd953e49fa069042"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpackscreateintegration-1-21-1-0-1-8-134.pw.toml"
+hash = "b8ae7948fac1cb66200729d0f95eb7a55db7db56717f85e0a21f0eae952b9240"
 metafile = true
 
 [[files]]
 file = "mods/sophisticatedcore-1-21-1-1-4-77-2173.pw.toml"
-hash = "82cc538be3e3dfbc44ab19e18d87d46e5e5080b880f57dcb650cc0e2a2f2f9d3"
+hash = "e4543029cc687e443d16568c17e08b8d779d4faf5fa90bffd5a87727a7cdfe39"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1-21-1-1-5-80-1999.pw.toml"
+hash = "6d7c2b159ec244ade60b503944a804e24b375cbf2a7c49684ba075fd2379e193"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstoragecreateintegration-1-21-1-0-1-20-192.pw.toml"
+hash = "c03af69bfe195e07f3500fb411851c8ed6f8ff15aa1384d6452edadf0f6684cf"
 metafile = true
 
 [[files]]
@@ -555,6 +580,11 @@ hash = "a0d5c0dd3e6cf5c2927ca322371e2e2257c0aae6b028d488426a51e2e195a7ef"
 metafile = true
 
 [[files]]
+file = "mods/waystones-neoforge-1-21-1-21-1-37.pw.toml"
+hash = "aa93b28b90916068f7564d21f411e567935b5fda735d3e7a02bd7046cbc78a0b"
+metafile = true
+
+[[files]]
 file = "mods/wind-spellbooks-1-0-1.pw.toml"
 hash = "91d7caa204012f3875a2d304c0ebcc5dcbb3e76e56c95c939a9b773c05487d6c"
 metafile = true
@@ -562,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/xaerominimap-neoforge-1-21-1-26-4-2.pw.toml"
 hash = "85bd5fe88a18ce35752ab6f92f86c34f27f18ec8c849d6c713ac3cd6ed86580f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-waystones-compatibility-neoforge-1-21-1-2-1-0.pw.toml"
+hash = "7e3a6a68fc734cd1a8d9f4ef0623aa5ba6c6ef9761288338de5a629312670eb6"
 metafile = true
 
 [[files]]
