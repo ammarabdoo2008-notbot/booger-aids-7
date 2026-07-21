@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -131,9 +131,12 @@
       "mods/reliquified_ars_nouveau-1.21.1-0.8.1.jar",
       "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
       "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
-      "mods/aeroworks-1.3.0.jar"
+      "mods/aeroworks-1.3.0.jar",
+      "mods/traveloptics-4.4.0.1-1.21.1.jar"
     ],
-    "files": [],
+    "files": [
+      "mods/boogeraids-1.1-balls_edition.jar"
+    ],
     "known_mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
       "mods/aces_spell_utils-1.1.23-1.21.1.jar",
@@ -243,6 +246,7 @@
       "mods/sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
       "mods/sophisticatedcore-1.21.1-1.4.77.2173.jar",
       "mods/soul-fire-d-neoforge-1.21-6.1.0.jar",
+      "mods/traveloptics-4.4.0.1-1.21.1.jar",
       "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "mods/wind_spellbooks-1.0.1.jar",
       "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
