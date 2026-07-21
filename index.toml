@@ -250,11 +250,6 @@ hash = "108c17062ef9181673949ab4a0a4d2d04927b3f0b531e456e4fc81bf1449c774"
 metafile = true
 
 [[files]]
-file = "mods/farmersdelight-1-21-1-1-3-2.pw.toml"
-hash = "18d1f214a44bf715b5d17af8887c3bc08b9be3477a733ce80e0abf951b24527b"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-7-0-3-neoforge.pw.toml"
 hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
@@ -315,11 +310,6 @@ hash = "44605f8117455fa9944e570cb581a346be88ebc2cd5805ee3705940512910b74"
 metafile = true
 
 [[files]]
-file = "mods/irons-spellbooks-1-21-1-3-16-2.pw.toml"
-hash = "d98a79e02419b3a778d4ef957c0189b9307b3adb5b77a8b0540f6ea41c643bc8"
-metafile = true
-
-[[files]]
 file = "mods/iss-magicfromtheeast-1-1-5.pw.toml"
 hash = "9bca5a08086e74e872d42f849fa62cf628611d9ec47fb779239495f6ee9ffdb3"
 metafile = true
@@ -347,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/kotlinforforge-5-12-0-all.pw.toml"
 hash = "6712beb0a3e298cbc49017e479b5e39735d52ebbbfc168cf80ca4d6f13ab6746"
-metafile = true
-
-[[files]]
-file = "mods/l-ender-s-cataclysm-1-21-1-3-32.pw.toml"
-hash = "f8d9c8e0bf78afc95794627fac6056dfdcb7b42829a0e759cbb834d169ed217f"
 metafile = true
 
 [[files]]
@@ -460,11 +445,6 @@ hash = "78c884dc1f99429eb242c2216d5fb2ea6a50fd19747badc2228a18eeb311fd84"
 metafile = true
 
 [[files]]
-file = "mods/ritchiesprojectilelib-2-1-2-mc-1-21-1-neoforge-2.pw.toml"
-hash = "66c0777d90d2ee98a1727a311b5a532fc9d9e73f1d2e23739291a7d4dab26ca0"
-metafile = true
-
-[[files]]
 file = "mods/ritchiesprojectilelib-2-1-2-mc-1-21-1-neoforge.pw.toml"
 hash = "0facb23abe870bd514fbbcc8f4f30d5ef57ffec9c43cec3dda48c86449ff3a52"
 metafile = true
@@ -520,11 +500,6 @@ hash = "dd9dc09af33d68dca150c03a921a80a0489afd15a1e5623eb4d4a2ced05b5950"
 metafile = true
 
 [[files]]
-file = "mods/somakespells-1-0-1.pw.toml"
-hash = "3afed87d81d8d246a1f8e2b4828b72b4605c33df2fd813215a82c4412d2d97fd"
-metafile = true
-
-[[files]]
 file = "mods/sophisticatedbackpacks-1-21-1-3-25-71-1997.pw.toml"
 hash = "2004da60db9ce9a91a0364f9e676e1623724d7ce6f359620e83d7b632c740ea6"
 metafile = true
@@ -547,11 +522,6 @@ metafile = true
 [[files]]
 file = "mods/trading-floor-3-0-16.pw.toml"
 hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
-metafile = true
-
-[[files]]
-file = "mods/traveloptics-4-4-0-1-1-21-1.pw.toml"
-hash = "5382375fcc40466a3877ff347992163733e7e23aa3a1f2380e996e6f598dedda"
 metafile = true
 
 [[files]]
