@@ -1,0 +1,15 @@
+{
+  "pack_url": "https://raw.githubusercontent.com/ammarabdoo2008-notbot/booger-aids-7/main/pack.toml",
+  "name": "Booger aids 7",
+  "description": null,
+  "unsup": true,
+  "shared_by": "Barca_Ammar",
+  "icon": "https://raw.githubusercontent.com/ammarabdoo2008-notbot/booger-aids-7/main/icon.png",
+  "banner": null,
+  "signing_key": null,
+  "news_url": null,
+  "playercount_url": null,
+  "min_memory_mb": null,
+  "max_memory_mb": null,
+  "jvm_args": null
+}

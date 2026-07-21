@@ -1,0 +1,12 @@
+name = "Create: ComputerCraft Recipes"
+filename = "cccreate.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bgyy5uON/versions/PB5UXj1W/cccreate.jar"
+hash-format = "sha512"
+hash = "df1dd95941ce7fe169a0502cacf319c5b7c72d5bbbadd11ea785edb66851ad2a6984b1f6022a91b02bc0a6293de17fc8f00bcb79707574c68b1b0c2b0b1e7483"
+
+[update.modrinth]
+mod-id = "Bgyy5uON"
+version = "PB5UXj1W"

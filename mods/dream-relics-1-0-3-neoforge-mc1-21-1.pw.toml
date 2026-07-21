@@ -1,0 +1,12 @@
+name = "Dream Relics"
+filename = "dream_relics-1.0.3-neoforge+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zU7VvEmB/versions/vYalKtQc/dream_relics-1.0.3-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "6fb822cf90eacfba0c05835d4bd77fdf85fb3ce0066e689899109e0e6d779cb2ce72ad5c123008bdb75b9760236f01b2f4214835c9499db88bef6877530abc63"
+
+[update.modrinth]
+mod-id = "zU7VvEmB"
+version = "vYalKtQc"

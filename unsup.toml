@@ -1,0 +1,32 @@
+[flavor_groups.shaders]
+name = "Shaders"
+description = "Not for gabalahs poor ass shit pc"
+side = "both"
+
+[[flavor_groups.shaders.choices]]
+id = "ana_msh_5wal"
+name = "ana msh 5wal"
+description = "normal people"
+
+[[flavor_groups.shaders.choices]]
+id = "ana_5wal"
+name = "ana 5wal"
+description = "gabalah confirmed"
+
+[metafile."/mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"]
+flavors = ["ana_msh_5wal"]
+
+[metafile."/shaderpacks/complementaryreimagined-r5-8-1.pw.toml"]
+flavors = ["ana_msh_5wal"]
+
+[metafile."/shaderpacks/complementaryunbound-r5-8-1.pw.toml"]
+flavors = ["ana_msh_5wal"]
+
+[metafile."/shaderpacks/fantasy-shaders-reimagined-v1-1.pw.toml"]
+flavors = ["ana_msh_5wal"]
+
+[metafile."/shaderpacks/fantasy-shaders-unbound-v1-1.pw.toml"]
+flavors = ["ana_msh_5wal"]
+
+[metafile."/shaderpacks/photon-v1-3b.pw.toml"]
+flavors = ["ana_msh_5wal"]

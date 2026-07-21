@@ -1,0 +1,12 @@
+name = "Legendary Relics"
+filename = "legendary_relics-2101.1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTqu0z2t/versions/Zu4WO6mJ/legendary_relics-2101.1.3.1.jar"
+hash-format = "sha512"
+hash = "896f64f5c4934ea8f84e04c0f7b32b374b2f9f7e845bd948ea3c1423eb7a3d6969c5dee1b81e8ae400d81f575ed205df3bdb7d687a8a5275d34dd286b8b1e60b"
+
+[update.modrinth]
+mod-id = "XTqu0z2t"
+version = "Zu4WO6mJ"

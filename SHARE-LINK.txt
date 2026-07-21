@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fammarabdoo2008-notbot%2Fbooger-aids-7%2Fmain%2Fpack.toml&name=Booger+aids+7&unsup=true&shared_by=Barca_Ammar&icon=https%3A%2F%2Fraw.githubusercontent.com%2Fammarabdoo2008-notbot%2Fbooger-aids-7%2Fmain%2Ficon.png

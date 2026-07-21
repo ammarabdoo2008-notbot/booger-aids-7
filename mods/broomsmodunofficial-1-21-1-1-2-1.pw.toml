@@ -1,0 +1,12 @@
+name = "Brooms Unofficial"
+filename = "BroomsModUnofficial-1.21.1-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ktr5lJNt/versions/k49T6Af0/BroomsModUnofficial-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "c84d0e71cb7e225e09db44adb46183e4deb65fa7d7f6c2f620b487338c73a90b0a59404f7d43895affa5e95173de51491fa6ec10d8e4ccc068849ceaf7d7f772"
+
+[update.modrinth]
+mod-id = "Ktr5lJNt"
+version = "k49T6Af0"
