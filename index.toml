@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
-hash = "7a1fda4f63caa6a9837638492f1c5e0ea2bd5b50054b41c2d8e2d16a08877e9f"
+hash = "d05f9df389352389b9a5a9e1eb54dcacdbdebed458ecdfa9db99ba36ff74d8e0"
 metafile = true
 
 [[files]]
@@ -183,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/extra-gauges-2-1-2.pw.toml"
 hash = "108c17062ef9181673949ab4a0a4d2d04927b3f0b531e456e4fc81bf1449c774"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu-neoforge-3-9-8-mc-1-21-1.pw.toml"
-hash = "f52cdaac9927355763bdfff9911e3b3917505f1ce8e6f870738d103f0bc61365"
 metafile = true
 
 [[files]]
@@ -251,11 +246,6 @@ hash = "19837bab30b529e580f7d898cf7079f2d4c94ce541c5cfab2fd4f248302b6c3e"
 metafile = true
 
 [[files]]
-file = "mods/legendary-relics-2101-1-3-1.pw.toml"
-hash = "4cca01bb9ce808f3c84320f3904f528488670901ea2cb77ebd5048c1e1c939ce"
-metafile = true
-
-[[files]]
 file = "mods/lithium-neoforge-0-15-4-mc1-21-1.pw.toml"
 hash = "bf5483a74d2a5491eb061595daf378e315bd90034a40befbd4d5324b4b56d47a"
 metafile = true
@@ -278,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling-neoforge-1-21-1-1-0-8.pw.toml"
 hash = "876378d26817840fdafd2a926912adc6211a1f6b083f5eb908890fbb984e210d"
-metafile = true
-
-[[files]]
-file = "mods/morerelics-1-7-5-1-21-1.pw.toml"
-hash = "6d2d9ffdf0d9ef0655b1ef7d7955b2840ee04739f512848c928153669b5dbc68"
 metafile = true
 
 [[files]]
@@ -336,8 +321,8 @@ hash = "bcc17731e029d874cc31682ca34a466c56feb98d26307ba332ec05db4ecdc169"
 metafile = true
 
 [[files]]
-file = "mods/relics-1-21-1-0-12-8.pw.toml"
-hash = "09d60ecd440bead8801a667c17aa231d243780092ebb2f300b6447e7e93dbecc"
+file = "mods/relics-1-21-1-0-12-6.pw.toml"
+hash = "b74fee1f4ed4c201bd3fa05b4b21607da9973b577fdcd2db915c658ba638f430"
 metafile = true
 
 [[files]]
