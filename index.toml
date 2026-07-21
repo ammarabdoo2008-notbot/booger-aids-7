@@ -121,6 +121,11 @@ hash = "3d363b7028442e8c16cc7af6e3474f1afcf3283bd74a36f5ea3684b7323ceb3b"
 metafile = true
 
 [[files]]
+file = "mods/createdragonsplus-1-11-2b.pw.toml"
+hash = "a50ea2f904a11c2c5464afb916a98c84790c1c22070d77bc46641cd4b5d9af06"
+metafile = true
+
+[[files]]
 file = "mods/createliquidfuel-2-1-1-1-21-1.pw.toml"
 hash = "630819dd06e7787c5e639fda321e334de0fe29539f48c0f2712e643b397f2ab1"
 metafile = true
@@ -196,6 +201,11 @@ hash = "f3cc90c3adb92f2bc386241a7d13f96d784401f8fad796a2ed0627ab5a493c9d"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-neoforge-1-21-1-4-9-2.pw.toml"
+hash = "ea5141b2d4db45a89903c8d3bac51ce8b6c888c38e16d86315da7fa883f69a9f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast-neoforge-1-6-11-1-21-1.pw.toml"
 hash = "0dc5007b8f36a7eec3c21285febcdf2dcc8a246011a835f6627883f2b78d58ce"
 metafile = true
@@ -208,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/irons-apothic-invaders-1-0-0.pw.toml"
 hash = "d05372deb5605ba7cc1cb556e2eef16440fab81db4ac35bb11cec49e588cf51a"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib-1-21-1-2-1-0.pw.toml"
+hash = "679c7e4340a7d7d7c2447acdb20bc1e5b5e7cb53aa7162fedbfb9c960692cab9"
 metafile = true
 
 [[files]]
@@ -306,6 +321,11 @@ hash = "3bab38ead6333a1997803672a93d15a6a111231b6e7d4b9963f6d93ff2592b6d"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-lib-forge-2-0-4-1-21-1.pw.toml"
+hash = "549d09219f6ddb8d95f78fdb85e08d8d05d15aa7266f79855574182c3d7b9651"
+metafile = true
+
+[[files]]
 file = "mods/prickle-neoforge-1-21-1-21-1-11.pw.toml"
 hash = "e863ac6a3880959d299896cebda47fbe1a16b7c784983b091ac41942aefa55c5"
 metafile = true
@@ -336,11 +356,6 @@ hash = "78c884dc1f99429eb242c2216d5fb2ea6a50fd19747badc2228a18eeb311fd84"
 metafile = true
 
 [[files]]
-file = "mods/repackagerfix-1-0-0.pw.toml"
-hash = "78fb9148231a50a0c5f192c68288d05e688c2e94b458c34257c5d7c4bc899c75"
-metafile = true
-
-[[files]]
 file = "mods/sable-neoforge-1-21-1-2-0-3.pw.toml"
 hash = "f7f4332c982c99cc3d6c740668cbfd9b2b966044b5e29ae5955eb2e1b057875a"
 metafile = true
@@ -348,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/searchables-neoforge-1-21-1-1-0-2.pw.toml"
 hash = "3e4f10e6a4af780cc628cfec8a59c3aeaf28a986761ab7973168e8571a22b4bc"
+metafile = true
+
+[[files]]
+file = "mods/shield-system-2101-1-4.pw.toml"
+hash = "60dd2e9e6eac0f27bb9b333fea00caa0fa556e7e0a0bd78985b1154d5b708e82"
 metafile = true
 
 [[files]]

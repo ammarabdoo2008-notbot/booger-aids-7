@@ -1,0 +1,12 @@
+name = "Shield System"
+filename = "shield_system-2101.1.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bd322d93929d83468d683132439219ca996f950b"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1263471
+file-id = 8392094
