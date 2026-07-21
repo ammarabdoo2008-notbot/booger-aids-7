@@ -41,6 +41,26 @@ hash = "1b2703d4499cd99daa98aec35ef6a9c6e68add8b32915a15ba351a97ca2fdadf"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemancy-1-21-1-1-17.pw.toml"
+hash = "f46cd003f660eaa4fe0e0a5f41282d447f715856185442482d33ee10d623d79d"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental-1-21-1-0-7-10-1.pw.toml"
+hash = "baca24a0d817300bef4e3b79d6333930ae111aa1dac8e495768a79f8cce87cbd"
+metafile = true
+
+[[files]]
+file = "mods/ars-n-spells-3-0-1.pw.toml"
+hash = "945a8e410db4fb120303570cf63ca6e08fd73859acf6a485183aed69e0b2ef7d"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau-1-21-1-5-12-1.pw.toml"
+hash = "c427fa64afd2091d6a6c0111d5b2c5e12c05ec52828e2afaef11d18ff2f99010"
+metafile = true
+
+[[files]]
 file = "mods/artifacts-neoforge-13-2-1.pw.toml"
 hash = "f19a02f7cb683e6ed4dac2bc02cae8cf179687bb8705115111031fad1466ae7f"
 metafile = true
@@ -51,8 +71,18 @@ hash = "51cebf95b0426c364d0159f5e18a5dad5b7fad06f63b3bceae5a7ec2cdd65237"
 metafile = true
 
 [[files]]
+file = "mods/ashenwitchbroom-neoforge-1-21-1-1-0-2.pw.toml"
+hash = "781597c7df0a3a140384a1ce5210600978a7a588729559efedaa827a080410fa"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-neo-1-21-1-3-1-11.pw.toml"
 hash = "0fc0ea1cd769696367c54e04f0a361916b6edf5fefe89b1d88d542d952fe2f94"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib-1-21-1-neoforge-2-0-3.pw.toml"
+hash = "7c2a1a2ed7711cd9d55294b4dfb567cf4b49b52a1851a706d9946d177e44f544"
 metafile = true
 
 [[files]]
@@ -61,8 +91,13 @@ hash = "f43889f09d010095410c82672a394fe773fe44510a967ff5e186ba1e1adc7167"
 metafile = true
 
 [[files]]
-file = "mods/broomsmodunofficial-1-21-1-1-2-1.pw.toml"
-hash = "44401e820773626d7b1746362b2b0cc01356f30322a93d3d7b0aed7bd6dadf60"
+file = "mods/cbc-going-ballistic-0-2-1.pw.toml"
+hash = "7d70e8cdc3c9b05535f796de475b300e9e86ea9398370708460511ef498fb2f7"
+metafile = true
+
+[[files]]
+file = "mods/cc-cbc-v1-1-1-1-21-1-neoforge.pw.toml"
+hash = "b2e645203137c95ea6ee44433cd30bf30988949c0dc7a055070d7485a3f27250"
 metafile = true
 
 [[files]]
@@ -107,7 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-1-21-1-6-0-10.pw.toml"
-hash = "e9ad0b607d89f85b27ec14444b10ff6952cfdb79c6e6f0be4e3e61110b62e1f7"
+hash = "ebdda79db558d7c222be3b12be52350856bf07f6021d0b84419dfc7312969c00"
+metafile = true
+
+[[files]]
+file = "mods/create-aero-radar-0-1-1-1-21-1.pw.toml"
+hash = "976d9097a938e85aecedc14da4618bf9a8eba8b131d9a7c0cb1857ccaf7f621e"
 metafile = true
 
 [[files]]
@@ -126,6 +166,11 @@ hash = "d513716cb1a14f6d721e70c1c3e8a5b51ca062c93ca166a5f714c7e7e926aa72"
 metafile = true
 
 [[files]]
+file = "mods/create-radar-0-4-9-4-1-21-1.pw.toml"
+hash = "f5af24ffadbca6512f444e6dbe627897494ac452e14f8426901b456ddbddaf64"
+metafile = true
+
+[[files]]
 file = "mods/create-simulated-additions-0-2-3-neoforge-1-21-1.pw.toml"
 hash = "0829a157321ba596d00352968bbc552dd2d07f9720b6abbe22c1fea5f52a3f70"
 metafile = true
@@ -133,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions1-21-1-v2-1-4a.pw.toml"
 hash = "3d363b7028442e8c16cc7af6e3474f1afcf3283bd74a36f5ea3684b7323ceb3b"
+metafile = true
+
+[[files]]
+file = "mods/createbigcannons-5-11-7-mc-1-21-1.pw.toml"
+hash = "e89f781dbcdf95fb0937456c66d8c1092d0d15b2d57f61dbaa65467915b8e1f2"
 metafile = true
 
 [[files]]
@@ -221,6 +271,21 @@ hash = "ea5141b2d4db45a89903c8d3bac51ce8b6c888c38e16d86315da7fa883f69a9f"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-neoforge-1-21-1-1-0-37.pw.toml"
+hash = "aa25af5003b000ce520fe2f4ab412e6dcc80383fe287bb5844534316c7097979"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-sable-compat-1-0-0.pw.toml"
+hash = "26c49bbcc5c22db0d1a5ad375215abd1f6c4655da9bb8dd1beec2428b18fba03"
+metafile = true
+
+[[files]]
+file = "mods/gravestonecurioscompat-1-21-1-neoforge-4-0-2.pw.toml"
+hash = "db68290196522ab25362b07a4a12896ae19277e7076103f5c9f4bb3651007661"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast-neoforge-1-6-11-1-21-1.pw.toml"
 hash = "0dc5007b8f36a7eec3c21285febcdf2dcc8a246011a835f6627883f2b78d58ce"
 metafile = true
@@ -273,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete-neoforge-1-9-9-mc-1-21.pw.toml"
 hash = "19837bab30b529e580f7d898cf7079f2d4c94ce541c5cfab2fd4f248302b6c3e"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-5-12-0-all.pw.toml"
+hash = "6712beb0a3e298cbc49017e479b5e39735d52ebbbfc168cf80ca4d6f13ab6746"
 metafile = true
 
 [[files]]
@@ -361,6 +431,11 @@ hash = "b74fee1f4ed4c201bd3fa05b4b21607da9973b577fdcd2db915c658ba638f430"
 metafile = true
 
 [[files]]
+file = "mods/reliquified-ars-nouveau-1-21-1-0-8-1.pw.toml"
+hash = "27f4a6b8172cf4c6e7886c76a2d0eefea43afb63d73c7e7377a8dbe7fe12f0d6"
+metafile = true
+
+[[files]]
 file = "mods/reliquified-artifacts-1-21-1-1-0-7.pw.toml"
 hash = "3d3d0200381a738ea6589a57f3a60d0aec9dbf3a96850d6a46e7d14bb8089078"
 metafile = true
@@ -373,6 +448,16 @@ metafile = true
 [[files]]
 file = "mods/repackaged-0-0-7.pw.toml"
 hash = "78c884dc1f99429eb242c2216d5fb2ea6a50fd19747badc2228a18eeb311fd84"
+metafile = true
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2-1-2-mc-1-21-1-neoforge-2.pw.toml"
+hash = "66c0777d90d2ee98a1727a311b5a532fc9d9e73f1d2e23739291a7d4dab26ca0"
+metafile = true
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2-1-2-mc-1-21-1-neoforge.pw.toml"
+hash = "0facb23abe870bd514fbbcc8f4f30d5ef57ffec9c43cec3dda48c86449ff3a52"
 metafile = true
 
 [[files]]
@@ -441,18 +526,8 @@ hash = "ca5d8df3414829f3fa493b35b9cd12a98a5b7e110071ccaa15af8fc36cbbfbf8"
 metafile = true
 
 [[files]]
-file = "mods/tectonic-3-0-26-neoforge-21-1.pw.toml"
-hash = "82941e2d9547d60fac8ef584c4cb7af2bda390544f637fa5c7e3e6430b53d50a"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-neoforge-1-21-1-4-1-0-8.pw.toml"
 hash = "2e002d7cd94eaecc69cdc2edd561b44101ef90dd0dbd7dd32ff5970c9e99fdd1"
-metafile = true
-
-[[files]]
-file = "mods/terralith-1-21-1-v2-6-2-neoforge.pw.toml"
-hash = "14a49e11cd34d80d9614fa79a4c23ce405ff21f71a349d13280864ddba9c7ea3"
 metafile = true
 
 [[files]]
