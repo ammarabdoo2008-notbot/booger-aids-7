@@ -440,6 +440,11 @@ hash = "2210406a8cd394e410c8ea9dead6377358a6ec6e49562246ec2d1b6a718b339d"
 metafile = true
 
 [[files]]
+file = "mods/playeranimationlibneoforge-1-1-5-mc-1-21-1.pw.toml"
+hash = "827d0939f779d6bff8873abbe3ad69fbee0f14a287cc9ea92ffee94b2d190060"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-neoforge-1-1-0-1-21-1.pw.toml"
 hash = "6c70728e1bdb9cefdf60acc2abe40c890b6ec65c1e21f52205d863073a250b73"
 metafile = true
