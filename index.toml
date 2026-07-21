@@ -6,6 +6,11 @@ hash = "349f5f4d07340134997f79bb8c8fae2923d0179bffa3be597db0f46f9a612478"
 metafile = true
 
 [[files]]
+file = "mods/aeroworks-1-3-0.pw.toml"
+hash = "6daeaa9be504c2679bd6d26b1e67afe6d04f6f65e8e24b133a29384a9d8c1b2f"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis-1-21-1-8-6-0.pw.toml"
 hash = "0cda297cd8d8bab7804cbc778b1707cc8f5ec5870f97abe6f2294b8180018e37"
 metafile = true
@@ -38,26 +43,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-13-0-8-neoforge.pw.toml"
 hash = "1b2703d4499cd99daa98aec35ef6a9c6e68add8b32915a15ba351a97ca2fdadf"
-metafile = true
-
-[[files]]
-file = "mods/ars-elemancy-1-21-1-1-17.pw.toml"
-hash = "f46cd003f660eaa4fe0e0a5f41282d447f715856185442482d33ee10d623d79d"
-metafile = true
-
-[[files]]
-file = "mods/ars-elemental-1-21-1-0-7-10-1.pw.toml"
-hash = "baca24a0d817300bef4e3b79d6333930ae111aa1dac8e495768a79f8cce87cbd"
-metafile = true
-
-[[files]]
-file = "mods/ars-n-spells-3-0-1.pw.toml"
-hash = "945a8e410db4fb120303570cf63ca6e08fd73859acf6a485183aed69e0b2ef7d"
-metafile = true
-
-[[files]]
-file = "mods/ars-nouveau-1-21-1-5-12-1.pw.toml"
-hash = "c427fa64afd2091d6a6c0111d5b2c5e12c05ec52828e2afaef11d18ff2f99010"
 metafile = true
 
 [[files]]
@@ -142,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-1-21-1-6-0-10.pw.toml"
-hash = "ebdda79db558d7c222be3b12be52350856bf07f6021d0b84419dfc7312969c00"
+hash = "e9ad0b607d89f85b27ec14444b10ff6952cfdb79c6e6f0be4e3e61110b62e1f7"
 metafile = true
 
 [[files]]
@@ -428,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/relics-1-21-1-0-12-6.pw.toml"
 hash = "b74fee1f4ed4c201bd3fa05b4b21607da9973b577fdcd2db915c658ba638f430"
-metafile = true
-
-[[files]]
-file = "mods/reliquified-ars-nouveau-1-21-1-0-8-1.pw.toml"
-hash = "27f4a6b8172cf4c6e7886c76a2d0eefea43afb63d73c7e7377a8dbe7fe12f0d6"
 metafile = true
 
 [[files]]
