@@ -285,11 +285,6 @@ hash = "0dc5007b8f36a7eec3c21285febcdf2dcc8a246011a835f6627883f2b78d58ce"
 metafile = true
 
 [[files]]
-file = "mods/incantation-0-9-3.pw.toml"
-hash = "1d5f123a2bb91324ba1d9182d4b4a2b02e32ba91e8cdd8d76a45192fb11c1c9f"
-metafile = true
-
-[[files]]
 file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
 hash = "064f8ee970317106e1f36f32f4bb412b45d87a3e5ecfedb90f06b899e6952454"
 metafile = true
