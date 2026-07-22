@@ -1,0 +1,12 @@
+name = "Nukes"
+filename = "nukes-1.0.0-v1.0-neoforge-1.21.1-very-low-performance-REMASTERED.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2f46da03a352eed7b4c265ca4eb07cf136feed50"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 474950
+file-id = 6973160

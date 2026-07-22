@@ -425,6 +425,11 @@ hash = "8ae12dd4c52dab53aa307eaf941936d06901b495d2c32434fa4cbcce5d2588b8"
 metafile = true
 
 [[files]]
+file = "mods/nukes-1-0-0-v1-0-neoforge-1-21-1-very-low-performance-remastered.pw.toml"
+hash = "13deccd888986a1e12bac6e618cec196b146fb2f31928ee8d9c20086d50205c3"
+metafile = true
+
+[[files]]
 file = "mods/octolib-neoforge-0-6-2-1-21.pw.toml"
 hash = "f6a39825d6c9ff20b43ad7dbbf56e930213b0dc4bd5db913c8ba64d8bc9cbeb0"
 metafile = true

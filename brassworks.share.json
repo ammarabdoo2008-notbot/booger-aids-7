@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -157,7 +157,8 @@
       "mods/waystones-neoforge-1.21.1-21.1.37.jar",
       "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
       "mods/PlayerAnimationLibNeoforge-1.1.5+mc.1.21.1.jar",
-      "mods/tpa-neoforge-1.21-2.0.0.jar"
+      "mods/tpa-neoforge-1.21-2.0.0.jar",
+      "mods/nukes-1.0.0-v1.0-neoforge-1.21.1-very-low-performance-REMASTERED.jar"
     ],
     "files": [
       "mods/boogeraids-1.1-balls_edition.jar"
@@ -255,6 +256,7 @@
       "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "mods/natures_spirit-2.2.5-1.21.1.jar",
       "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "mods/nukes-1.0.0-v1.0-neoforge-1.21.1-very-low-performance-REMASTERED.jar",
       "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "shaderpacks/photon_v1.3b.zip",
       "mods/Placebo-1.21.1-9.9.2.jar",
