@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -330,7 +330,6 @@
       "mods/sophisticatedstorage-1.21.1-1.5.80.1999.jar",
       "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar",
       "mods/soul-fire-d-neoforge-1.21-6.1.0.jar",
-      "mods/souls_message_banners-neoforge-1.0.8.jar",
       "mods/StrawStatues-v21.1.0-1.21.1-NeoForge.jar",
       "mods/struts-1.2.7.jar",
       "mods/supplementaries-neoforge-1.21.1-3.8.3.jar",

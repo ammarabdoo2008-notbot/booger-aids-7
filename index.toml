@@ -670,11 +670,6 @@ hash = "ca5d8df3414829f3fa493b35b9cd12a98a5b7e110071ccaa15af8fc36cbbfbf8"
 metafile = true
 
 [[files]]
-file = "mods/souls-message-banners-neoforge-1-0-8.pw.toml"
-hash = "46a0d4f918a5a0e67d84fbaa3cd823842c9ea8e2c240b15c1b29bf78874edf20"
-metafile = true
-
-[[files]]
 file = "mods/strawstatues-v21-1-0-1-21-1-neoforge.pw.toml"
 hash = "7445f0675f65770b167e66a8d7b4ca7bf39685201976fc620512ba959182bed0"
 metafile = true
