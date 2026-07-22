@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -158,7 +158,8 @@
       "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
       "mods/PlayerAnimationLibNeoforge-1.1.5+mc.1.21.1.jar",
       "mods/tpa-neoforge-1.21-2.0.0.jar",
-      "mods/nukes-1.0.0-v1.0-neoforge-1.21.1-very-low-performance-REMASTERED.jar"
+      "mods/nukes-1.0.0-v1.0-neoforge-1.21.1-very-low-performance-REMASTERED.jar",
+      "mods/lambdynamiclights-4.8.10+1.21.1.jar"
     ],
     "files": [
       "mods/boogeraids-1.1-balls_edition.jar"
@@ -244,6 +245,7 @@
       "mods/jei-1.21.1-neoforge-19.39.0.369.jar",
       "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "mods/kotlinforforge-5.12.0-all.jar",
+      "mods/lambdynamiclights-4.8.10+1.21.1.jar",
       "mods/lionfishapi-3.1.jar",
       "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
       "mods/lithostitched-1.7.13-neoforge-21.1.jar",

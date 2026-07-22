@@ -370,6 +370,11 @@ hash = "6712beb0a3e298cbc49017e479b5e39735d52ebbbfc168cf80ca4d6f13ab6746"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights-4-8-10-1-21-1.pw.toml"
+hash = "8cd8ec688d965d0753d1f7d7aff8e325270562975216f3cf482f9e66a665cee7"
+metafile = true
+
+[[files]]
 file = "mods/lionfishapi-3-1.pw.toml"
 hash = "48ce7eade576bcc2ee69298b955c2420458602ec604c9291847b523cbb9c82bf"
 metafile = true
