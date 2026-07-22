@@ -240,6 +240,11 @@ hash = "30947794e77405b681f24781b97348e46d0e88a488bfcc8dc53c9074b6586342"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-backtank-neoforge-1-21-1-1-0-1.pw.toml"
+hash = "4f4779a0593b8e9c08d6e3a312fd53a6f1ccf2d92db39391e2b7a5a4dbcd03c9"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-2-5-0-preview-alpha1.pw.toml"
 hash = "d513716cb1a14f6d721e70c1c3e8a5b51ca062c93ca166a5f714c7e7e926aa72"
 metafile = true
@@ -296,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
-hash = "7a1fda4f63caa6a9837638492f1c5e0ea2bd5b50054b41c2d8e2d16a08877e9f"
+hash = "d05f9df389352389b9a5a9e1eb54dcacdbdebed458ecdfa9db99ba36ff74d8e0"
 metafile = true
 
 [[files]]
@@ -490,6 +495,11 @@ hash = "6f91dfeb8bf386b62bfa28e0db342ff6167b4ce60ca39112248b2005628bf86d"
 metafile = true
 
 [[files]]
+file = "mods/more-curios-slots-1-4.pw.toml"
+hash = "35b8300e08f9996a8d794c5ebb0c6070bf4b7c3a035a287fc534283ec3c24d30"
+metafile = true
+
+[[files]]
 file = "mods/morebookshelfvariants-1-0-5-1-21-neo.pw.toml"
 hash = "7643382820b0541b846b01fd82843766b77ab6b0cc143c25632a781192daac93"
 metafile = true
@@ -622,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/sablejade-1-2-1.pw.toml"
 hash = "1e4e7050ba84a9c1c044539c1760d37ceb6f5218aeb9a2efb5f0b1e5466c2dfe"
+metafile = true
+
+[[files]]
+file = "mods/sablestuffadditionscompat-v1-0-3-1-21-1.pw.toml"
+hash = "056e26fe3ecbe6e8ccc9b50ee48e1a6aa36686d6fb3c8231a0c02495b9210aea"
 metafile = true
 
 [[files]]
