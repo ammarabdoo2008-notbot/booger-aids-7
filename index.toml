@@ -85,11 +85,6 @@ hash = "f43889f09d010095410c82672a394fe773fe44510a967ff5e186ba1e1adc7167"
 metafile = true
 
 [[files]]
-file = "mods/born-in-chaos-neoforge-1-21-1-1-7-6.pw.toml"
-hash = "822122565715a837f5e232d920a17a6e5a6ecf8bf435adb008420b2138d109c2"
-metafile = true
-
-[[files]]
 file = "mods/carry-cats-2-2-1-21-1.pw.toml"
 hash = "d2b9b7997afdcd802f691fa79986617b37aaad29163e8caf556583499340ba14"
 metafile = true
