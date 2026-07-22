@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
-hash = "d05f9df389352389b9a5a9e1eb54dcacdbdebed458ecdfa9db99ba36ff74d8e0"
+hash = "7a1fda4f63caa6a9837638492f1c5e0ea2bd5b50054b41c2d8e2d16a08877e9f"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib-neoforge-1-21-1-4-9-2.pw.toml"
-hash = "ea5141b2d4db45a89903c8d3bac51ce8b6c888c38e16d86315da7fa883f69a9f"
+hash = "a78e6392acb7981827739dc83ba54a696a85cc903bdad4b656df8be1e161204c"
 metafile = true
 
 [[files]]
@@ -425,8 +425,8 @@ hash = "bf6f841085b7aa04735832a32971acfc9483958e44d9b9c5ea0f3469a999b94b"
 metafile = true
 
 [[files]]
-file = "mods/irons-spellbooks-1-21-1-3-15-2.pw.toml"
-hash = "44605f8117455fa9944e570cb581a346be88ebc2cd5805ee3705940512910b74"
+file = "mods/irons-spellbooks-1-21-1-3-16-2.pw.toml"
+hash = "d98a79e02419b3a778d4ef957c0189b9307b3adb5b77a8b0540f6ea41c643bc8"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/octolib-neoforge-0-6-2-1-21.pw.toml"
-hash = "f6a39825d6c9ff20b43ad7dbbf56e930213b0dc4bd5db913c8ba64d8bc9cbeb0"
+hash = "0bf6478b99ea80fa5dc1a252c9f1cba3336bd29d9e76d14998780cdd5e8abdd7"
 metafile = true
 
 [[files]]
@@ -585,8 +585,8 @@ hash = "bcc17731e029d874cc31682ca34a466c56feb98d26307ba332ec05db4ecdc169"
 metafile = true
 
 [[files]]
-file = "mods/relics-1-21-1-0-12-6.pw.toml"
-hash = "b74fee1f4ed4c201bd3fa05b4b21607da9973b577fdcd2db915c658ba638f430"
+file = "mods/relics-1-21-1-0-12-8.pw.toml"
+hash = "18066757aec98c1484b26ec91b2909d0f354cb49775a5f00f6d8a90efb5c5b36"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-irons-spells-and-spellbooks-1-21-1-0-2-7.pw.toml"
-hash = "04ad66c4241692853bc35211b8054361f4dadbc19439e8aeb1de81f3f5a5512c"
+hash = "de9934735acb84090f4c1fd978848b594fe0d679c55a9cbdffde67c22f71ff40"
 metafile = true
 
 [[files]]
