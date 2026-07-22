@@ -575,6 +575,11 @@ hash = "2e002d7cd94eaecc69cdc2edd561b44101ef90dd0dbd7dd32ff5970c9e99fdd1"
 metafile = true
 
 [[files]]
+file = "mods/tpa-neoforge-1-21-2-0-0.pw.toml"
+hash = "5aec0434eb5a1fbb0ed4bc60abd25e6ddfae9a2da34d812c75abd3ee5a9a4292"
+metafile = true
+
+[[files]]
 file = "mods/trading-floor-3-0-16.pw.toml"
 hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
 metafile = true
