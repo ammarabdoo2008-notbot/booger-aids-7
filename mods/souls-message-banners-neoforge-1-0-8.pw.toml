@@ -10,8 +10,3 @@ hash = "0ff8e762ade69304e8db8b87f9930cf204f4cf658033ccd5f04d7eb90da000c19e305e16
 [update.modrinth]
 mod-id = "hx4Rlnhh"
 version = "1rDMrKoK"
-
-[option]
-optional = true
-default = true
-description = "only for non pussies"

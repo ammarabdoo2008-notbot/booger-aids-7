@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -347,10 +347,6 @@
       "mods/YouDied-neoforge-1.21-4.0.0.19.jar": {
         "default": true,
         "description": "You died"
-      },
-      "mods/souls_message_banners-neoforge-1.0.8.jar": {
-        "default": true,
-        "description": "only for non pussies"
       }
     },
     "flavor_groups": [
