@@ -1,0 +1,12 @@
+name = "Fullbright [Permanent Night Vision]"
+filename = "fullbright-multiplayer-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fmEdAGPf/versions/L4JF904I/fullbright-multiplayer-1.4.jar"
+hash-format = "sha512"
+hash = "6d7dd218d58f1f1471997094e2ce7ee8c5b1045afcb4561b89a79a46caced384da6cea6d009166794ec763cea4fcd4e9611ec53d1743882854f2d1b103443dbd"
+
+[update.modrinth]
+mod-id = "fmEdAGPf"
+version = "L4JF904I"

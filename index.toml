@@ -41,6 +41,11 @@ hash = "a4c913e5820e6dbe2757d431483c3b163720918455c6738381df5a1107416b4f"
 metafile = true
 
 [[files]]
+file = "mods/arcaneessenceblock-1-0-1-neoforge-1-21-1.pw.toml"
+hash = "1460152aee47ab1c1c36849de8fec9d3228d849b566dfbe626b3af94c46c0951"
+metafile = true
+
+[[files]]
 file = "mods/architectury-13-0-8-neoforge.pw.toml"
 hash = "671742b2e2fe8a5acf16bee187083878035a4f7f854332a7ec2cf970349a7eea"
 metafile = true
@@ -295,6 +300,11 @@ hash = "d7eb04f2bfaddb09843f0dd06f844b0d567bc7704bba5c8c4c7240747aff5f25"
 metafile = true
 
 [[files]]
+file = "mods/fullbright-multiplayer-1-4.pw.toml"
+hash = "258239b64fb1edcdad7a109b394e603b8dd883cfd979e7c8043e7a6f88b41296"
+metafile = true
+
+[[files]]
 file = "mods/geckolib-neoforge-1-21-1-4-9-2.pw.toml"
 hash = "ea5141b2d4db45a89903c8d3bac51ce8b6c888c38e16d86315da7fa883f69a9f"
 metafile = true
@@ -422,11 +432,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughanimations-neoforge-1-12-4-mc1-21-1.pw.toml"
 hash = "8ae12dd4c52dab53aa307eaf941936d06901b495d2c32434fa4cbcce5d2588b8"
-metafile = true
-
-[[files]]
-file = "mods/nukes-1-0-0-v1-0-neoforge-1-21-1-very-low-performance-remastered.pw.toml"
-hash = "13deccd888986a1e12bac6e618cec196b146fb2f31928ee8d9c20086d50205c3"
 metafile = true
 
 [[files]]
