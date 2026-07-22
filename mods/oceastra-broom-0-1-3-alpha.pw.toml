@@ -1,0 +1,12 @@
+name = "Oceastra's Broom"
+filename = "oceastra_broom-0.1.3-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PWNPIcRq/versions/iNtMhiZE/oceastra_broom-0.1.3-alpha.jar"
+hash-format = "sha512"
+hash = "cb58f4040e990060ea7853e792b23a1bcc57627dd8188fc3bc216457a684fdd06281c0794fdc1a7e345cd498bf8674a13907218332ea6dd72ae54212098127f2"
+
+[update.modrinth]
+mod-id = "PWNPIcRq"
+version = "iNtMhiZE"
