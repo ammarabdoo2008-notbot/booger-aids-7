@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -179,6 +179,7 @@
       "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
       "mods/balm-neoforge-1.21.1-21.0.63.jar",
       "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "mods/born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
       "mods/Carry Cats 2.2 1.21.1.jar",
       "mods/carryon-neoforge-1.21.1-2.2.5.8.jar",
       "mods/CarryOnAeroCompat-1.21.1-1.1.1.jar",
