@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -249,7 +249,6 @@
       "mods/jei-1.21.1-neoforge-19.39.0.369.jar",
       "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "mods/kotlinforforge-5.12.0-all.jar",
-      "mods/lambdynamiclights-4.8.10+1.21.1.jar",
       "mods/lionfishapi-3.1.jar",
       "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
       "mods/lithostitched-1.7.13-neoforge-21.1.jar",
