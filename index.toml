@@ -399,11 +399,6 @@ hash = "d73ffbc45aa1dbcd89e384817e6ca7db5d3754c2d0df8f9f9700568c82b137a0"
 metafile = true
 
 [[files]]
-file = "mods/fast-travel-waypoints-neoforge-1-21-1-v1-3-1.pw.toml"
-hash = "67ddaed01401b223e50158a3c7492e7bf10fb49b58a4ddd984ce3562d5a8eba1"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-7-0-3-neoforge.pw.toml"
 hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
