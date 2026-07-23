@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/FarmersWearableCookingPot-v0.1-1.21.1.jar"
-hash = "a69c7ef04b46a950279450b228c6ab7dec6981a78fd4a7da8180dcee5bc5c04f"
-
-[[files]]
 file = "mods/aces-spell-utils-1-2-7-1-1-21-1.pw.toml"
 hash = "56473918c81e9e57d149e96a58780163f39fa3f0733f86c7253bc0446ef1a1dd"
 metafile = true
@@ -136,11 +132,6 @@ hash = "42843bdbb89130b861d257ed8f0b183de8c5a1f94734782bf3e6db339111dd7a"
 [[files]]
 file = "mods/bookshelf-neoforge-1-21-1-21-1-81.pw.toml"
 hash = "f43889f09d010095410c82672a394fe773fe44510a967ff5e186ba1e1adc7167"
-metafile = true
-
-[[files]]
-file = "mods/brewinandchewin-neoforge-4-5-0-1-21-1.pw.toml"
-hash = "420627010871278d05fe25b37782c2683a2247183e2b3ad854eaa7699bdbf82b"
 metafile = true
 
 [[files]]
@@ -394,10 +385,6 @@ hash = "108c17062ef9181673949ab4a0a4d2d04927b3f0b531e456e4fc81bf1449c774"
 metafile = true
 
 [[files]]
-file = "mods/farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1.jar"
-hash = "82ccccfb160de46f0ce38abd918a58d24c0ef840d7020ec44b5aa857746ac22d"
-
-[[files]]
 file = "mods/farmers_sandwiches-0.1.2-neoforge-1.21.1.jar"
 hash = "900a765dc6e92ea5987b7589325c2a9241d1a5f1c8da92a4e585bc2920c5f959"
 
@@ -409,16 +396,6 @@ metafile = true
 [[files]]
 file = "mods/farmersknives-neoforge-1-21-1-4-2-0.pw.toml"
 hash = "d73ffbc45aa1dbcd89e384817e6ca7db5d3754c2d0df8f9f9700568c82b137a0"
-metafile = true
-
-[[files]]
-file = "mods/farmerspizzeria-1-3-0-neoforge-1-21-1.pw.toml"
-hash = "1202a43138a4e537ed8bab35a5751752ce68ca654410e332b047bbf1bff05d14"
-metafile = true
-
-[[files]]
-file = "mods/farmersstructures-1-0-6-1-21-1-neoforge.pw.toml"
-hash = "8f95ec7738186e0119b660e5164456b5d6794ee6936d51f8373cfe9f5f141658"
 metafile = true
 
 [[files]]
@@ -439,11 +416,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-neoforge-2101-1-15.pw.toml"
 hash = "3ba82e5f7671f30107202e2acd560f41d01872afaa8fefbd469ae8b5d12f2b40"
-metafile = true
-
-[[files]]
-file = "mods/full-moon-only-black-cats-1-0-0-1-21-3.pw.toml"
-hash = "d7eb04f2bfaddb09843f0dd06f844b0d567bc7704bba5c8c4c7240747aff5f25"
 metafile = true
 
 [[files]]
@@ -474,11 +446,6 @@ metafile = true
 [[files]]
 file = "mods/gravestonecurioscompat-1-21-1-neoforge-4-0-2.pw.toml"
 hash = "db68290196522ab25362b07a4a12896ae19277e7076103f5c9f4bb3651007661"
-metafile = true
-
-[[files]]
-file = "mods/hauntedharvest-neoforge-1-21-3-4-0.pw.toml"
-hash = "d91e8c172f6361e99655e99cc25f83a5d79ea9211f2d6a62c9c5c45d7501b2f8"
 metafile = true
 
 [[files]]
@@ -572,11 +539,6 @@ hash = "3cad84271db8597e99d457c1e6ce04c29ec740f9d5daa6c30e7663ecd8356385"
 metafile = true
 
 [[files]]
-file = "mods/moonlight-neoforge-1-21-1-3-1-1.pw.toml"
-hash = "6f91dfeb8bf386b62bfa28e0db342ff6167b4ce60ca39112248b2005628bf86d"
-metafile = true
-
-[[files]]
 file = "mods/moonlight-neoforge-1-21-1-3-1-3.pw.toml"
 hash = "c55223d3eefeefa0be4cb70ced430e5175672f0f56d31e0ba1d5f47f54f0d5da"
 metafile = true
@@ -612,11 +574,6 @@ hash = "9b965d900ad969f2d4ee6e6e5f620a183ba2ce5791753a780415b8b0457e6718"
 metafile = true
 
 [[files]]
-file = "mods/neoforge-1-21-1-1-1-0.pw.toml"
-hash = "6fe321c72ebe28566a85aa769a36f8a261d9d5e44fd22b8224a142697d743649"
-metafile = true
-
-[[files]]
 file = "mods/notenoughanimations-neoforge-1-12-4-mc1-21-1.pw.toml"
 hash = "8ae12dd4c52dab53aa307eaf941936d06901b495d2c32434fa4cbcce5d2588b8"
 metafile = true
@@ -629,11 +586,6 @@ metafile = true
 [[files]]
 file = "mods/octolib-neoforge-0-6-2-1-21.pw.toml"
 hash = "0bf6478b99ea80fa5dc1a252c9f1cba3336bd29d9e76d14998780cdd5e8abdd7"
-metafile = true
-
-[[files]]
-file = "mods/offcutting-1-0-0-1-21-1.pw.toml"
-hash = "63129dce3a35c224d3e66ddeb389450bccc9c60f058b20311beef90ac38f608d"
 metafile = true
 
 [[files]]
@@ -864,11 +816,6 @@ metafile = true
 [[files]]
 file = "mods/waystones-neoforge-1-21-1-21-1-37.pw.toml"
 hash = "6571f924b09854ed4d63b044b0a131f0dfbbf7f548f83d66b97441f63685d325"
-metafile = true
-
-[[files]]
-file = "mods/wd-2-5-0-1-21-1neo.pw.toml"
-hash = "725517d9ccd120b21f31ab7cb60257451a914887e44124d337874b4314aac0d6"
 metafile = true
 
 [[files]]
