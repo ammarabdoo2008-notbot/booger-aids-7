@@ -1,0 +1,12 @@
+name = "Amethyst Elevator"
+filename = "amethyst-elevator-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rdIHYFIE/versions/b51QOW5g/amethyst-elevator-1.2.0.jar"
+hash-format = "sha512"
+hash = "40bddda2cc00e511e44107c60e94dfa7cc9f5c0652ee2eab4db80b587c0e90d20fd1e6d123abf982abe9661c91ab162bdbd27a623fbd0f8217a769d89cb6ccdc"
+
+[update.modrinth]
+mod-id = "rdIHYFIE"
+version = "b51QOW5g"

@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/aces-spell-utils-1-1-23-1-21-1.pw.toml"
-hash = "349f5f4d07340134997f79bb8c8fae2923d0179bffa3be597db0f46f9a612478"
+file = "mods/aces-spell-utils-1-2-7-1-1-21-1.pw.toml"
+hash = "56473918c81e9e57d149e96a58780163f39fa3f0733f86c7253bc0446ef1a1dd"
 metafile = true
 
 [[files]]
@@ -23,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/amendments-neoforge-1-21-2-1-7.pw.toml"
 hash = "93b23dc3761b508f5797936cf6d058f724ab31b99e91822f45c61f4873e6b057"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-elevator-1-2-0.pw.toml"
+hash = "5e836f5821ed312ab55e23c01b332624ec41c3a5d4c312cd7302fc7bf10fa205"
 metafile = true
 
 [[files]]
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib-neo-1-21-1-3-1-11.pw.toml"
-hash = "0fc0ea1cd769696367c54e04f0a361916b6edf5fefe89b1d88d542d952fe2f94"
+hash = "adf6bf43334cf6373c53337509a3627333d68dab6b8d6408322761f4a4fd14c1"
 metafile = true
 
 [[files]]
@@ -122,6 +127,11 @@ hash = "42843bdbb89130b861d257ed8f0b183de8c5a1f94734782bf3e6db339111dd7a"
 [[files]]
 file = "mods/bookshelf-neoforge-1-21-1-21-1-81.pw.toml"
 hash = "f43889f09d010095410c82672a394fe773fe44510a967ff5e186ba1e1adc7167"
+metafile = true
+
+[[files]]
+file = "mods/caelus-neoforge-7-0-1-1-21-1.pw.toml"
+hash = "0fff45d6fc390797e7c563f4a90ea5e6df36ba23d2acfa9f9194a5f3100389e5"
 metafile = true
 
 [[files]]
@@ -181,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb-neoforge-1-21-1-4-0.pw.toml"
-hash = "bb43e0939e94bbb505da1cc716e2c33ae07ff8e07679b001cbec34535345a5f8"
+hash = "af829cf2b951c71a4493f64de2556fbdad42411fe9c786bed6e2239463afdb17"
 metafile = true
 
 [[files]]
@@ -300,8 +310,13 @@ hash = "494f779aaef2a124c09966609b318fc7c320b72ef13324b86b261ed5349866aa"
 metafile = true
 
 [[files]]
+file = "mods/crystal-chronicles-0-1-3-alpha.pw.toml"
+hash = "30ef31e10048c6a11f05c34e322caeb9c55cd55621e98971cf0eb3ff5b636590"
+metafile = true
+
+[[files]]
 file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
-hash = "d05f9df389352389b9a5a9e1eb54dcacdbdebed458ecdfa9db99ba36ff74d8e0"
+hash = "7a1fda4f63caa6a9837638492f1c5e0ea2bd5b50054b41c2d8e2d16a08877e9f"
 metafile = true
 
 [[files]]
@@ -331,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/discerning-the-eldritch-1-4-3-1-21.pw.toml"
-hash = "de8603716d72715b433137b934327bf05453197d7be7cde5af71c10f9a72eed1"
+hash = "4e50845e782cee6d0bd8e5403ddfbfd7a20533cda2ad968cf045bfd4c193ee05"
 metafile = true
 
 [[files]]
@@ -342,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps-3-11-4-minecraft-1-21-0-neoforge.pw.toml"
 hash = "67241a713fbf873928f39f4f7bc7661cb4f2fdcc70a8fe41cdaee8df1faee024"
+metafile = true
+
+[[files]]
+file = "mods/easymagic-v21-1-4-1-21-1-neoforge.pw.toml"
+hash = "e97efe2330d20b745506fd7662f7606844dee2473227800e8329a7606ae370da"
 metafile = true
 
 [[files]]
@@ -382,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/fullbright-multiplayer-1-4.pw.toml"
 hash = "258239b64fb1edcdad7a109b394e603b8dd883cfd979e7c8043e7a6f88b41296"
+metafile = true
+
+[[files]]
+file = "mods/fusion-1-3-9-neoforge-mc1-21-1.pw.toml"
+hash = "ecab9f12fbab6c4a526f8bd538760d207e05e16235b20903a2263b146c793d64"
 metafile = true
 
 [[files]]
@@ -466,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/lionfishapi-3-1.pw.toml"
-hash = "48ce7eade576bcc2ee69298b955c2420458602ec604c9291847b523cbb9c82bf"
+hash = "737bb424e621f3044c78672f3ab611b23a58e10eb74947a5524e65dff277e40c"
 metafile = true
 
 [[files]]
@@ -576,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus-neoforge-1-21-1-2-5.pw.toml"
-hash = "39c39bb691265af88b92050c8cd2945ba58f4bb866762350c3179cfd311c2c64"
+hash = "01a921df678881efe1073ef411c2a260b04c421851abb022107ee5001d98c34c"
 metafile = true
 
 [[files]]
@@ -711,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fire-d-neoforge-1-21-6-1-0.pw.toml"
-hash = "ca5d8df3414829f3fa493b35b9cd12a98a5b7e110071ccaa15af8fc36cbbfbf8"
+hash = "b23495ff97ae536d9dd665dc698fd53fcd66d37eb817a40b424082dc7de06b7c"
 metafile = true
 
 [[files]]
