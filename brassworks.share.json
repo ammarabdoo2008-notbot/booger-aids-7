@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -420,7 +420,6 @@
       "mods/waystones-neoforge-1.21.1-21.1.37.jar",
       "mods/wind_spellbooks-1.0.1.jar",
       "mods/wd-2.5.0_1.21.1Neo.jar",
-      "mods/xmxw-2.11.1+1.21.1-neoforge.jar",
       "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
       "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
       "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",

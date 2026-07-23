@@ -887,11 +887,6 @@ hash = "8b08c3b7d90df92592c973778b92586480a0027fd503969d58cba5bd77468b93"
 metafile = true
 
 [[files]]
-file = "mods/xmxw-2-11-1-1-21-1-neoforge.pw.toml"
-hash = "9a50662a46bf1369f2e445a9217e78fcbdaf41dddeb47db19b6b2991033118c0"
-metafile = true
-
-[[files]]
 file = "mods/yet-another-config-lib-v3-3-8-2-1-21-1-neoforge.pw.toml"
 hash = "cc347af0b5d9293558e7b6c7e61b30faab513fcb8879a8b5c81a1ece6a6cf49a"
 metafile = true
