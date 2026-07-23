@@ -1,0 +1,12 @@
+name = "Xaero's Maps x Waystones"
+filename = "xmxw-2.11.1+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0172892c91339a8c1dfbe02e4ab1d3f578068f3c"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1340197
+file-id = 8346565

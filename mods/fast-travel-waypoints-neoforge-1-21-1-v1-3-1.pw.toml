@@ -1,0 +1,12 @@
+name = "Fast Travel Waypoints"
+filename = "Fast_Travel_Waypoints-NeoForge-1.21.1-v1.3.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f957f9a4ea9aa266e4b9eedb974e09a737853bbe"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1492203
+file-id = 8258335

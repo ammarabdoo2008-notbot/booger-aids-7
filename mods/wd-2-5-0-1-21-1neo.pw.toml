@@ -1,0 +1,12 @@
+name = "Wizardry Delight"
+filename = "wd-2.5.0_1.21.1Neo.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "210be6593ce3b66c6c1ccc5b6c24ea54753fc768"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 865464
+file-id = 8470328

@@ -1,0 +1,12 @@
+name = "Palestinian Delight"
+filename = "paldelight-1.21.1-1.3.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6a4def45f421397d727476de6085fc2102f1b437"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1097126
+file-id = 6665858
