@@ -1,0 +1,12 @@
+name = "Create: Direct Chute"
+filename = "direct_chute-1.1.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "da4b9c252a9534e46d1778d3430a7b437aced29c"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1259659
+file-id = 7563322
