@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -388,7 +388,6 @@
       "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
       "mods/oceastra_broom-0.1.3-alpha.jar",
       "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-      "mods/paldelight-1.21.1-1.3.0.jar",
       "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "shaderpacks/photon_v1.3b.zip",
       "mods/Placebo-1.21.1-9.9.2.jar",
@@ -452,14 +451,14 @@
         "side": "both",
         "choices": [
           {
-            "id": "ana_msh_5wal",
-            "name": "ana msh 5wal",
+            "id": "ana_msh_gablooty",
+            "name": "Ana msh gablooty",
             "description": "normal people ",
             "default": true
           },
           {
-            "id": "ana_5wal",
-            "name": "ana 5wal",
+            "id": "ana_gablooty",
+            "name": "Ana gablooty",
             "description": "gabalah confirmed",
             "default": false
           }
@@ -468,22 +467,25 @@
     ],
     "flavor_assignments": {
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar": [
-        "ana_msh_5wal"
+        "ana_msh_gablooty"
+      ],
+      "mods/lootlog-neoforge-1.0.0.jar": [
+        "ana_gablooty"
       ],
       "shaderpacks/ComplementaryReimagined_r5.8.1.zip": [
-        "ana_msh_5wal"
+        "ana_msh_gablooty"
       ],
       "shaderpacks/ComplementaryUnbound_r5.8.1.zip": [
-        "ana_msh_5wal"
+        "ana_msh_gablooty"
       ],
       "shaderpacks/Fantasy Shaders Reimagined v1.1.zip": [
-        "ana_msh_5wal"
+        "ana_msh_gablooty"
       ],
       "shaderpacks/Fantasy Shaders Unbound v1.1.zip": [
-        "ana_msh_5wal"
+        "ana_msh_gablooty"
       ],
       "shaderpacks/photon_v1.3b.zip": [
-        "ana_msh_5wal"
+        "ana_msh_gablooty"
       ]
     }
   },

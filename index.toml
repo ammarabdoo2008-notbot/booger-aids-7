@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootlog-neoforge-1-0-0.pw.toml"
-hash = "f84d812bb107b3ffe92bcc38b71020720a1092968b827209309e15aa69740533"
+hash = "90f3f48886e4b4041252c1e751c22ef35b0273eaed578e2bfd67ccb616fb5ebf"
 metafile = true
 
 [[files]]
@@ -611,11 +611,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib-neoforge-0-12-15-5-beta-1-1-21.pw.toml"
 hash = "24fc29c82361af57147281a692e723451bd323b2a9ab714354c53b5d81d29364"
-metafile = true
-
-[[files]]
-file = "mods/paldelight-1-21-1-1-3-0.pw.toml"
-hash = "bb73d78a4369a1a6b4277290ea8d891890246fda8261ba4338a5424ca65427e2"
 metafile = true
 
 [[files]]

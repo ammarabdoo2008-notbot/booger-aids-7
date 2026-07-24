@@ -10,3 +10,7 @@ hash = "2c82d9ead952de324c8c8d08fd20ed013f54921635459738e845b5bcaf13c9d6282d8854
 [update.modrinth]
 mod-id = "w0gH5swS"
 version = "I3RNsslS"
+
+[option]
+optional = true
+default = true
