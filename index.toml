@@ -739,11 +739,6 @@ hash = "60dd2e9e6eac0f27bb9b333fea00caa0fa556e7e0a0bd78985b1154d5b708e82"
 metafile = true
 
 [[files]]
-file = "mods/simplenicknames-1-21-1-neoforge-0-6-0.pw.toml"
-hash = "0e545db9080fe07692662b584fbc53057da73989f9a51fc445c98f98c707c5c2"
-metafile = true
-
-[[files]]
 file = "mods/simulated-gauges-1-1-0.pw.toml"
 hash = "7ed2b2d788dee33e05c8ddacd2066c719a9c062a05c07b0ae16bfd969d858e2d"
 metafile = true
@@ -751,11 +746,6 @@ metafile = true
 [[files]]
 file = "mods/skinlayers3d-neoforge-1-11-2-mc1-21-1.pw.toml"
 hash = "c7ad5bbd7aca377ba99dd00973e137b142846644272fc0832a060c23255f9799"
-metafile = true
-
-[[files]]
-file = "mods/skinrestorer-2-9-0-1-21-neoforge.pw.toml"
-hash = "bdb7ebc705b5f7f393dbcbebb2874832fff3aba1b86d531b2a93e68d26fc9149"
 metafile = true
 
 [[files]]
@@ -831,11 +821,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage-1-21-2-4-0.pw.toml"
 hash = "47e92f347e58e981ceb1e92cdb4e713445252aa0f175a825c528180b63c3d937"
-metafile = true
-
-[[files]]
-file = "mods/tpa-neoforge-1-21-2-0-0.pw.toml"
-hash = "5aec0434eb5a1fbb0ed4bc60abd25e6ddfae9a2da34d812c75abd3ee5a9a4292"
 metafile = true
 
 [[files]]
