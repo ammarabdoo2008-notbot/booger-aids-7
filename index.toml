@@ -544,6 +544,11 @@ hash = "a79861df079ee27c4f7384b0ad2613965dfa4162ad068cfad57811c6f5d0b3ba"
 metafile = true
 
 [[files]]
+file = "mods/lootlog-neoforge-1-0-0.pw.toml"
+hash = "f84d812bb107b3ffe92bcc38b71020720a1092968b827209309e15aa69740533"
+metafile = true
+
+[[files]]
 file = "mods/melody-neoforge-1-0-10-mc-1-21.pw.toml"
 hash = "32c75462351d9721c61e48320227ba36e6b38a566a816d890bce51968abb6777"
 metafile = true
@@ -829,8 +834,18 @@ hash = "5aec0434eb5a1fbb0ed4bc60abd25e6ddfae9a2da34d812c75abd3ee5a9a4292"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling-neoforge-1-21-1-1-0-18.pw.toml"
+hash = "a1e0fde370434d9202f55131961982f8ed5535d684baee39f033724ff8e37f51"
+metafile = true
+
+[[files]]
 file = "mods/trading-floor-3-0-16.pw.toml"
 hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
+metafile = true
+
+[[files]]
+file = "mods/travelerstitles-1-21-1-neoforge-5-1-3.pw.toml"
+hash = "e8e2cac76771cb258f34b465d1fa933f0677c00771a54d3c44aa6f94d5d18d84"
 metafile = true
 
 [[files]]
@@ -866,6 +881,11 @@ metafile = true
 [[files]]
 file = "mods/youdied-neoforge-1-21-4-0-0-19.pw.toml"
 hash = "a08312ee5cbb5d622f51a19732dbf1cc6c0e46a0188a1c4f4943a5c9c7d08503"
+metafile = true
+
+[[files]]
+file = "mods/yungsapi-1-21-1-neoforge-5-1-6.pw.toml"
+hash = "2bcc9ab3c98e464095773c94771c969f4049a7b45a4d8415c88cee5d3f53276a"
 metafile = true
 
 [[files]]
