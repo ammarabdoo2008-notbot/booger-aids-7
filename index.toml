@@ -844,6 +844,11 @@ hash = "e8e2cac76771cb258f34b465d1fa933f0677c00771a54d3c44aa6f94d5d18d84"
 metafile = true
 
 [[files]]
+file = "mods/voicecastaddon-1-0-2.pw.toml"
+hash = "be7f91aa2e7f2196542983069c39487578a59556e723898b2321e11cafffe6fb"
+metafile = true
+
+[[files]]
 file = "mods/voicechat-neoforge-1-21-1-2-6-21.pw.toml"
 hash = "a0d5c0dd3e6cf5c2927ca322371e2e2257c0aae6b028d488426a51e2e195a7ef"
 metafile = true
