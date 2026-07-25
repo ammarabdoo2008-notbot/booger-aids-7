@@ -415,10 +415,6 @@ hash = "108c17062ef9181673949ab4a0a4d2d04927b3f0b531e456e4fc81bf1449c774"
 metafile = true
 
 [[files]]
-file = "mods/farmers_sandwiches-0.1.2-neoforge-1.21.1.jar"
-hash = "900a765dc6e92ea5987b7589325c2a9241d1a5f1c8da92a4e585bc2920c5f959"
-
-[[files]]
 file = "mods/farmersdelight-1-21-1-1-3-2.pw.toml"
 hash = "b7026001b7c848483b16e8b080378a9cf61912460089f1d6c3cdab8af19ac961"
 metafile = true
@@ -426,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/farmersknives-neoforge-1-21-1-4-2-0.pw.toml"
 hash = "d73ffbc45aa1dbcd89e384817e6ca7db5d3754c2d0df8f9f9700568c82b137a0"
+metafile = true
+
+[[files]]
+file = "mods/fastpaintings-1-21-1-3-0-neoforge.pw.toml"
+hash = "f3fd80b40c10db26536b72c9a0383fe8efcf4047646a6e7ba25fcc31a95b905e"
 metafile = true
 
 [[files]]
@@ -591,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/mousetweaks-neoforge-mc1-21-2-26-1.pw.toml"
 hash = "4e6b7fdd2fed48727870a04d70370968b9c6a578d302d1e11b2b641ccb48648b"
+metafile = true
+
+[[files]]
+file = "mods/mru-1-0-19-lts-1-21-1-neoforge.pw.toml"
+hash = "2a57f050ce5c79dc65476c700e4ba4e5b7f9380c77e8039339f213aab30207e6"
 metafile = true
 
 [[files]]
@@ -799,6 +805,11 @@ hash = "b23495ff97ae536d9dd665dc698fd53fcd66d37eb817a40b424082dc7de06b7c"
 metafile = true
 
 [[files]]
+file = "mods/sounds-2-4-22-lts-1-21-1-neoforge.pw.toml"
+hash = "5298077320fd9554f97e30b71a14f0acb4fe0c6bfa62dabece1fd370a4dcc02c"
+metafile = true
+
+[[files]]
 file = "mods/strawstatues-v21-1-0-1-21-1-neoforge.pw.toml"
 hash = "7445f0675f65770b167e66a8d7b4ca7bf39685201976fc620512ba959182bed0"
 metafile = true
@@ -834,11 +845,6 @@ hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
 metafile = true
 
 [[files]]
-file = "mods/voicecastaddon-1-0-2.pw.toml"
-hash = "be7f91aa2e7f2196542983069c39487578a59556e723898b2321e11cafffe6fb"
-metafile = true
-
-[[files]]
 file = "mods/voicechat-neoforge-1-21-1-2-6-21.pw.toml"
 hash = "a0d5c0dd3e6cf5c2927ca322371e2e2257c0aae6b028d488426a51e2e195a7ef"
 metafile = true
@@ -865,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet-another-config-lib-v3-3-8-2-1-21-1-neoforge.pw.toml"
-hash = "cc347af0b5d9293558e7b6c7e61b30faab513fcb8879a8b5c81a1ece6a6cf49a"
+hash = "dc811cdba73fb62f983b04752cc8ac48820880881218cbfd25cccb8d16046fcb"
 metafile = true
 
 [[files]]
