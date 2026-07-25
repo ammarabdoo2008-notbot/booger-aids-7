@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.43",
+  "version": "1.0.44",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -259,7 +259,8 @@
       "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar"
     ],
     "files": [
-      "mods/boogeraids-1.2-balls_edition.jar"
+      "mods/boogeraids-1.2-balls_edition.jar",
+      "mods/boogeraids-1.4-balls_edition.jar"
     ],
     "known_mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",

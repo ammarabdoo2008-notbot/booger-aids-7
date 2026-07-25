@@ -126,8 +126,8 @@ hash = "007e2173aa45b92a9af91025ab53e2a920b0add8a2fbea55e3b7c5081568421d"
 metafile = true
 
 [[files]]
-file = "mods/boogeraids-1.2-balls_edition.jar"
-hash = "258db675b71a0cd4e7aaddfdfd2f67b3f6bc90f9e9438367e582b076b12b61b0"
+file = "mods/boogeraids-1.4-balls_edition.jar"
+hash = "bc774e48ac4699c4f97d1102d2df5c430e59391091578941bafebf44f611aae5"
 
 [[files]]
 file = "mods/bookshelf-neoforge-1-21-1-21-1-81.pw.toml"

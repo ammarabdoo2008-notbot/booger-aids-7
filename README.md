@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./icon.png" width="96" height="96" alt="Booger aids 7 icon" />
+</p>
+
 <h1 align="center">Booger aids 7</h1>
 
 <p align="center">
@@ -11,7 +15,7 @@
 
 ## Play this pack
 
-The quickest way is one click: open [this install link](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fammarabdoo2008-notbot%2Fbooger-aids-7%2Fmain%2Fpack.toml&name=Booger+aids+7&unsup=true&shared_by=Barca_Ammar) and Brassworks sets everything up for you, then keeps it up to date on its own.
+The quickest way is one click: open [this install link](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fammarabdoo2008-notbot%2Fbooger-aids-7%2Fmain%2Fpack.toml&name=Booger+aids+7&unsup=true&shared_by=Barca_Ammar&icon=https%3A%2F%2Fraw.githubusercontent.com%2Fammarabdoo2008-notbot%2Fbooger-aids-7%2Fmain%2Ficon.png) and Brassworks sets everything up for you, then keeps it up to date on its own.
 
 Rather do it by hand? Install the [Brassworks Launcher](https://github.com/brassworks-smp), choose **Add Instance**, pick **packwiz**, and paste in this manifest URL:
 
