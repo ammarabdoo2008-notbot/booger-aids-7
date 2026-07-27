@@ -635,11 +635,6 @@ hash = "90f3f48886e4b4041252c1e751c22ef35b0273eaed578e2bfd67ccb616fb5ebf"
 metafile = true
 
 [[files]]
-file = "mods/lootr-neoforge-1-21-1-1-11-37-122.pw.toml"
-hash = "2c7a539cba16c3e77a50512762a10f940b8b9b5e751102c737cd3615694ddb0f"
-metafile = true
-
-[[files]]
 file = "mods/mcw-furniture-3-4-1-mc1-21-1neoforge.pw.toml"
 hash = "2254782615c71d1697cc7119715ffa9b2563e1794c6c5958737f96f283a6cbf4"
 metafile = true
@@ -977,11 +972,6 @@ metafile = true
 [[files]]
 file = "mods/trading-floor-3-0-16.pw.toml"
 hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
-metafile = true
-
-[[files]]
-file = "mods/twilight-lootr-neoforge-1-21-1-0-0-0-1.pw.toml"
-hash = "d270495d8e2da524bbe5886f6de2b27db464fb25a3aa2c4aa8540df1a0e8f8dc"
 metafile = true
 
 [[files]]
