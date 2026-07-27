@@ -760,11 +760,6 @@ hash = "827d0939f779d6bff8873abbe3ad69fbee0f14a287cc9ea92ffee94b2d190060"
 metafile = true
 
 [[files]]
-file = "mods/pmmo-farmers-compat-1-21-1-1-2-2.pw.toml"
-hash = "8261fb37176434728409b6fad68b324a34fdc6d71a8fb9ae64884b5afca26374"
-metafile = true
-
-[[files]]
 file = "mods/polymorph-neoforge-1-1-0-1-21-1.pw.toml"
 hash = "6c70728e1bdb9cefdf60acc2abe40c890b6ec65c1e21f52205d863073a250b73"
 metafile = true
