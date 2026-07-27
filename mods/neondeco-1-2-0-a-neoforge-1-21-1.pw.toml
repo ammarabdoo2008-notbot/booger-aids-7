@@ -1,0 +1,12 @@
+name = "NeonDeco"
+filename = "neondeco-1.2.0.a-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bf1dfa0bf73bf0d751bb49087507f4e70f4d6cc3"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 973435
+file-id = 7431696

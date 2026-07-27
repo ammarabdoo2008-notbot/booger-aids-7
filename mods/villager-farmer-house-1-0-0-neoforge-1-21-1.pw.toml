@@ -1,0 +1,12 @@
+name = "Villager Farmer House"
+filename = "villager_farmer_house-1.0.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "aae03d5e5be86a28222396b8aa1938b2b80e7264"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1350221
+file-id = 7013976
