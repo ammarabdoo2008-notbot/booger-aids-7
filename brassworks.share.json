@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.52",
+  "version": "1.0.53",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -304,7 +304,9 @@
       "mods/xpfarming-1.2.0-neoforge-1.21.1.jar",
       "mods/enderscape-neoforge-1.0.9+mc1.21.1.jar",
       "mods/MyNethersDelight-1.21.1-1.10.2.jar",
-      "mods/trimmed-neo-1.21-3.0.0.jar"
+      "mods/trimmed-neo-1.21-3.0.0.jar",
+      "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
     ],
     "files": [
       "mods/boogeraids-1.2-balls_edition.jar",
@@ -349,6 +351,7 @@
       "mods/cobweb-neoforge-1.21-1.4.0.jar",
       "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
       "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
       "mods/cooldown_reset_bookirons_spells-1.1.0-neoforge-1.21.1.jar",
       "mods/aerocopycats-1.1.1.jar",
@@ -511,6 +514,7 @@
       "mods/starcatcher_delight-3.0.1-NEOFORGE-1.21.1.jar",
       "mods/StrawStatues-v21.1.0-1.21.1-NeoForge.jar",
       "mods/struts-1.2.7.jar",
+      "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
       "mods/supplementaries-neoforge-1.21.1-3.8.3.jar",
       "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "mods/twilightforest-1.21.1-4.8.3345-universal.jar",

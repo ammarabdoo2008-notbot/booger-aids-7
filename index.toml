@@ -205,6 +205,11 @@ hash = "bb43e0939e94bbb505da1cc716e2c33ae07ff8e07679b001cbec34535345a5f8"
 metafile = true
 
 [[files]]
+file = "mods/connectedglass-1-1-14-neoforge-mc1-21.pw.toml"
+hash = "d2dcd549fc1e42f700c94d596ba44f76f42fae426010707f2c1b72b2c85846e2"
+metafile = true
+
+[[files]]
 file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
 hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
 metafile = true
@@ -511,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-1-3-9-neoforge-mc1-21-1.pw.toml"
-hash = "ecab9f12fbab6c4a526f8bd538760d207e05e16235b20903a2263b146c793d64"
+hash = "dbab45bb21d7d60477b084fb1c6ecb5313bbea285302140041a79862d01547fb"
 metafile = true
 
 [[files]]
@@ -962,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/struts-1-2-7.pw.toml"
 hash = "142fee7123492ffa2946441139524416e5fbce76634f69c42febe9f9ab169028"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642corelib-1-1-21-neoforge-mc1-21.pw.toml"
+hash = "35e73d673daa39fc6bdc592aec5bb8ae1009bede22978e63bfd9c6a1503ad6d9"
 metafile = true
 
 [[files]]
