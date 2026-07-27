@@ -1,0 +1,12 @@
+name = "Wizards Help!-Iron's Spells 'n Spellbooks Addon"
+filename = "wizardshelp-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8c0c31c2fb7bbfa4c7c8c135fdbab1ac87049a91"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1384953
+file-id = 7688313

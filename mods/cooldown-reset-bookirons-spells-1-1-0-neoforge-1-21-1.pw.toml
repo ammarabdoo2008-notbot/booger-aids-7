@@ -1,0 +1,12 @@
+name = "Cooldown reset book(Iron's Spells)"
+filename = "cooldown_reset_bookirons_spells-1.1.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9fefc92d620078040cbc509a8617f2bdf36307c0"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1342054
+file-id = 6971741

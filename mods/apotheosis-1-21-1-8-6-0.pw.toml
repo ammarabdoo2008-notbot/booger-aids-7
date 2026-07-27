@@ -3,10 +3,10 @@ filename = "Apotheosis-1.21.1-8.6.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rqFWfVlz/versions/H7tse5Fl/Apotheosis-1.21.1-8.6.0.jar"
-hash-format = "sha512"
-hash = "a761156ae74296f4f3671738db9a2d9651f4b4f9d65fb3a7ce5b2211be24b206b4f56e3669a2fe15211fe318780e53165d1e6716c350a75dec5973a4f634b385"
+hash-format = "sha1"
+hash = "816c532349f51a370f62ecb47a723bef2a891cf0"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "rqFWfVlz"
-version = "H7tse5Fl"
+[update.curseforge]
+project-id = 313970
+file-id = 8469606

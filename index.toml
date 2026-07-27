@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis-1-21-1-8-6-0.pw.toml"
-hash = "0cda297cd8d8bab7804cbc778b1707cc8f5ec5870f97abe6f2294b8180018e37"
+hash = "9b572b04a3e9c640f255b2a38d56531e991ebf87e4780e1309269ec9565a0a23"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/apothicenchanting-1-21-1-1-6-0.pw.toml"
-hash = "1503ca75c5a26afd5da2b38ca6e14951ee688c759cf6a3183373aea024bbaff6"
+hash = "7c437fc167a70dc90e397621cbe5b0448ea13f3b1648a3ee48a9bcaea48aabce"
 metafile = true
 
 [[files]]
 file = "mods/apothicspawners-1-21-1-1-4-0.pw.toml"
-hash = "ea7e6b0f9b9de1440a51fa65a03dd0417b017bc0099ad70bf593ff283d8cf209"
+hash = "fef2df49a8451d4f0742392e7c907e35472f568ab0398d91fdd8305476619090"
 metafile = true
 
 [[files]]
@@ -83,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts-neoforge-13-2-1.pw.toml"
 hash = "f19a02f7cb683e6ed4dac2bc02cae8cf179687bb8705115111031fad1466ae7f"
-metafile = true
-
-[[files]]
-file = "mods/artifactscrafting-1-1-0-rpg.pw.toml"
-hash = "51cebf95b0426c364d0159f5e18a5dad5b7fad06f63b3bceae5a7ec2cdd65237"
 metafile = true
 
 [[files]]
@@ -215,6 +210,11 @@ hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-reset-bookirons-spells-1-1-0-neoforge-1-21-1.pw.toml"
+hash = "6ae22d849139c3c288c4f664903e917e1c9ee3d266ed17feb64352dde074ef10"
+metafile = true
+
+[[files]]
 file = "mods/coopmod-1-0-0.pw.toml"
 hash = "2fbba6dd44739616ae752f470c0ec0a8f372e8d6c8118e4771ad8a6fce8baa3c"
 metafile = true
@@ -285,6 +285,11 @@ hash = "d513716cb1a14f6d721e70c1c3e8a5b51ca062c93ca166a5f714c7e7e926aa72"
 metafile = true
 
 [[files]]
+file = "mods/create-gunsmithing-1-21-1-1-4-9.pw.toml"
+hash = "4b3ee6c50fc4e0706630c0ca507bf809842ccc5d368e2e24ba5be1c891bf5cc7"
+metafile = true
+
+[[files]]
 file = "mods/create-mobile-packages-1-21-1-0-7-7.pw.toml"
 hash = "93add1c752a670063c5f4ec295b42f28c9735eb77106c39718cb3debee1882a8"
 metafile = true
@@ -337,6 +342,16 @@ metafile = true
 [[files]]
 file = "mods/createdragonsplus-1-11-2b.pw.toml"
 hash = "a50ea2f904a11c2c5464afb916a98c84790c1c22070d77bc46641cd4b5d9af06"
+metafile = true
+
+[[files]]
+file = "mods/createenchantablemachinery-3-6-0-mc1-21-1-neoforge.pw.toml"
+hash = "ec6fdbdf92179e3ee9d039eef525befc385f642f910c8fd328791223f40f4303"
+metafile = true
+
+[[files]]
+file = "mods/creategunpowder-1-21-1-1-0-1.pw.toml"
+hash = "a98d6686485a7290411b512c9bffe761b129b5d32471409101937da0317b5b8c"
 metafile = true
 
 [[files]]
@@ -446,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmersdelight-1-21-1-1-3-2.pw.toml"
-hash = "18d1f214a44bf715b5d17af8887c3bc08b9be3477a733ce80e0abf951b24527b"
+hash = "b7026001b7c848483b16e8b080378a9cf61912460089f1d6c3cdab8af19ac961"
 metafile = true
 
 [[files]]
@@ -457,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/farmersknives-neoforge-1-21-1-4-2-0.pw.toml"
 hash = "d73ffbc45aa1dbcd89e384817e6ca7db5d3754c2d0df8f9f9700568c82b137a0"
-metafile = true
-
-[[files]]
-file = "mods/fastpaintings-1-21-1-3-0-neoforge.pw.toml"
-hash = "f3fd80b40c10db26536b72c9a0383fe8efcf4047646a6e7ba25fcc31a95b905e"
 metafile = true
 
 [[files]]
@@ -495,8 +505,13 @@ hash = "4b6c6eda395cbd12a2723dad7325678a8d5a25265a119b9b5695a6d48ebacd28"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config-0-7-6-1-21-neoforge.pw.toml"
+hash = "bf9c5f73de1570ecfd91dfc2dcd1826667348ac0f87f04e30a527037d8fa6413"
+metafile = true
+
+[[files]]
 file = "mods/geckolib-neoforge-1-21-1-4-9-2.pw.toml"
-hash = "ea5141b2d4db45a89903c8d3bac51ce8b6c888c38e16d86315da7fa883f69a9f"
+hash = "a78e6392acb7981827739dc83ba54a696a85cc903bdad4b656df8be1e161204c"
 metafile = true
 
 [[files]]
@@ -530,6 +545,11 @@ hash = "0dc5007b8f36a7eec3c21285febcdf2dcc8a246011a835f6627883f2b78d58ce"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings-neoforge-1-21-1-0-7-8.pw.toml"
+hash = "30bc7cbe8dd0857eb31cbec22709a9a4ef2911418df3dfe1d26b87afb1ad7a07"
+metafile = true
+
+[[files]]
 file = "mods/interiors-1-21-1-neoforge-0-6-1.pw.toml"
 hash = "bb1882f0607681c2ad3dc85dc036234fe37dfaf4e86ed6f75909ed27247038da"
 metafile = true
@@ -537,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
 hash = "064f8ee970317106e1f36f32f4bb412b45d87a3e5ecfedb90f06b899e6952454"
+metafile = true
+
+[[files]]
+file = "mods/irons-apothic-2-2-1.pw.toml"
+hash = "4d89e1b5e15b661e38a83a6679a5e86e9a907a150e948ccae53f12af924f231c"
 metafile = true
 
 [[files]]
@@ -556,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spellbooks-1-21-1-3-16-2.pw.toml"
-hash = "b306057ca7e332ac36abcb39a81b299d0b492b08c068506ef70a13c9dff371cb"
+hash = "d98a79e02419b3a778d4ef957c0189b9307b3adb5b77a8b0540f6ea41c643bc8"
 metafile = true
 
 [[files]]
@@ -586,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlinforforge-5-12-0-all.pw.toml"
-hash = "6712beb0a3e298cbc49017e479b5e39735d52ebbbfc168cf80ca4d6f13ab6746"
+hash = "f64a8b997266baea7cbe3add24c60700bf635ed2cd43bcff5a45fbcef5f15ca9"
 metafile = true
 
 [[files]]
@@ -607,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/lootlog-neoforge-1-0-0.pw.toml"
 hash = "90f3f48886e4b4041252c1e751c22ef35b0273eaed578e2bfd67ccb616fb5ebf"
+metafile = true
+
+[[files]]
+file = "mods/lootr-neoforge-1-21-1-1-11-37-122.pw.toml"
+hash = "2c7a539cba16c3e77a50512762a10f940b8b9b5e751102c737cd3615694ddb0f"
 metafile = true
 
 [[files]]
@@ -680,6 +710,11 @@ hash = "8ae12dd4c52dab53aa307eaf941936d06901b495d2c32434fa4cbcce5d2588b8"
 metafile = true
 
 [[files]]
+file = "mods/ntgl-1-21-1-3-1-8.pw.toml"
+hash = "5ca214e3df0eafb457651b72c021c73e6c3d85e866df8d61d0a94500c2b1db48"
+metafile = true
+
+[[files]]
 file = "mods/oceastra-broom-0-1-3-alpha.pw.toml"
 hash = "51abe1e1b61164f2cc72cd104ad562a1c90a1e43e73bd085d3d7748dee6f4526"
 metafile = true
@@ -696,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-1-21-1-93-neoforge.pw.toml"
-hash = "5d6f7794b6a1b5c5d4970b0b5a8fb5f4f72e1c746744270236ed2323ab30bd16"
+hash = "fc28597f6ed719f12ecee1c3cc96f998c511a98d23a25f523fed08639c9a2a8b"
 metafile = true
 
 [[files]]
@@ -757,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/relics-1-21-1-0-12-8.pw.toml"
 hash = "18066757aec98c1484b26ec91b2909d0f354cb49775a5f00f6d8a90efb5c5b36"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-1-21-1-2-0-77-1537.pw.toml"
+hash = "d7ef717d5c9dfb3a6ecaa16f3fdbc9767d5038ba55e57642bc0eb6c49f4db3fd"
 metafile = true
 
 [[files]]
@@ -940,6 +980,21 @@ hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
 metafile = true
 
 [[files]]
+file = "mods/twilight-lootr-neoforge-1-21-1-0-0-0-1.pw.toml"
+hash = "d270495d8e2da524bbe5886f6de2b27db464fb25a3aa2c4aa8540df1a0e8f8dc"
+metafile = true
+
+[[files]]
+file = "mods/twilightdelight-3-2-2.pw.toml"
+hash = "cd920cbf831967d314d3bb850b835ffaaf60e3780ed12418b17a70a44a5a5107"
+metafile = true
+
+[[files]]
+file = "mods/twilightforest-1-21-1-4-8-3345-universal.pw.toml"
+hash = "3384bbf286990670a9c2badb8f8ae584ace816118fa2b846f7769622708171bb"
+metafile = true
+
+[[files]]
 file = "mods/villager-farmer-house-1-0-0-neoforge-1-21-1.pw.toml"
 hash = "44df186f9b92acb80205b232011e5859fc328388b41c7030256323cd28699a6b"
 metafile = true
@@ -960,8 +1015,8 @@ hash = "6571f924b09854ed4d63b044b0a131f0dfbbf7f548f83d66b97441f63685d325"
 metafile = true
 
 [[files]]
-file = "mods/wind-spellbooks-1-0-1.pw.toml"
-hash = "91d7caa204012f3875a2d304c0ebcc5dcbb3e76e56c95c939a9b773c05487d6c"
+file = "mods/wizardshelp-1-0-0.pw.toml"
+hash = "49260df52a57b0324f50779667f95e15cfe7a159361b56b678a1490cb569449f"
 metafile = true
 
 [[files]]
