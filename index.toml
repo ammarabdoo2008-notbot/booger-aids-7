@@ -460,6 +460,11 @@ hash = "e63484d4bd822cbd83a7a87319f56d231b0eb1f4874340a0d6d68c48c01d0403"
 metafile = true
 
 [[files]]
+file = "mods/enderscape-neoforge-1-0-9-mc1-21-1.pw.toml"
+hash = "804aad9bffedb6936398b4c374604a1207c7789b6b841378f638568e597a1282"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-neoforge-1-10-5-mc1-21-1.pw.toml"
 hash = "14f3b633d77ee2fb32038dc46904e7e86135f85fc2719ddb391c41ee954b682a"
 metafile = true
@@ -692,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/mru-1-0-19-lts-1-21-1-neoforge.pw.toml"
 hash = "2a57f050ce5c79dc65476c700e4ba4e5b7f9380c77e8039339f213aab30207e6"
+metafile = true
+
+[[files]]
+file = "mods/mynethersdelight-1-21-1-1-10-2.pw.toml"
+hash = "477ba0e83975fa6fd4846ba97fdb338cd41a988b332dec3a9dc83bae2f2e8d3e"
 metafile = true
 
 [[files]]
@@ -987,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/trading-floor-3-0-16.pw.toml"
 hash = "4c091a9b0e15d9b9315cd5789cd8d3b8cb0d8ec73779c43f550ef97caf006b60"
+metafile = true
+
+[[files]]
+file = "mods/trimmed-neo-1-21-3-0-0.pw.toml"
+hash = "99e8e668365c449b98caddf3ba007b9f36d70d67fd7385937522054640a78167"
 metafile = true
 
 [[files]]
