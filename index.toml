@@ -315,6 +315,11 @@ hash = "3d363b7028442e8c16cc7af6e3474f1afcf3283bd74a36f5ea3684b7323ceb3b"
 metafile = true
 
 [[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "2f16d7ac6b9368fd4c23c98af6b81e330c9685f286e5dfc8e0c72159e95849f1"
+metafile = true
+
+[[files]]
 file = "mods/createbb-1-1-3.pw.toml"
 hash = "c8c745587ca7d2c5cdc7a77a3a473c692262a019445f899db79ab468bf90622f"
 metafile = true
@@ -322,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/createbigcannons-5-11-7-mc-1-21-1.pw.toml"
 hash = "e89f781dbcdf95fb0937456c66d8c1092d0d15b2d57f61dbaa65467915b8e1f2"
+metafile = true
+
+[[files]]
+file = "mods/createcobblestone-1-4-12-neoforge-1-21-1-144.pw.toml"
+hash = "b82e621cc9c70e0c4dca11506060520c12ae54e1b835a14a4cea2a69666a0ab5"
 metafile = true
 
 [[files]]
@@ -750,6 +760,11 @@ hash = "827d0939f779d6bff8873abbe3ad69fbee0f14a287cc9ea92ffee94b2d190060"
 metafile = true
 
 [[files]]
+file = "mods/pmmo-farmers-compat-1-21-1-1-2-2.pw.toml"
+hash = "8261fb37176434728409b6fad68b324a34fdc6d71a8fb9ae64884b5afca26374"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-neoforge-1-1-0-1-21-1.pw.toml"
 hash = "6c70728e1bdb9cefdf60acc2abe40c890b6ec65c1e21f52205d863073a250b73"
 metafile = true
@@ -955,6 +970,11 @@ hash = "2e002d7cd94eaecc69cdc2edd561b44101ef90dd0dbd7dd32ff5970c9e99fdd1"
 metafile = true
 
 [[files]]
+file = "mods/tf-dnv-2-0-3.pw.toml"
+hash = "f69023c04d1aa4426932e519769bfad10f66eb93a686429b8b737ac65a4a8715"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage-1-21-2-4-0.pw.toml"
 hash = "47e92f347e58e981ceb1e92cdb4e713445252aa0f175a825c528180b63c3d937"
 metafile = true
@@ -1017,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/xaeroworldmap-neoforge-1-21-1-1-44-2.pw.toml"
 hash = "8b08c3b7d90df92592c973778b92586480a0027fd503969d58cba5bd77468b93"
+metafile = true
+
+[[files]]
+file = "mods/xpfarming-1-2-0-neoforge-1-21-1.pw.toml"
+hash = "88cb946b6ceab774398c36288818785ea7ee5019197ef10ef32e64a51fc0828e"
 metafile = true
 
 [[files]]

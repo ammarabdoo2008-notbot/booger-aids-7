@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.49",
+  "version": "1.0.50",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -296,7 +296,12 @@
       "mods/lootr-neoforge-1.21.1-1.11.37.122.jar",
       "mods/reliquary-1.21.1-2.0.77.1537.jar",
       "mods/twilight_lootr-neoforge-1.21.1-0.0.0.1.jar",
-      "mods/twilightdelight-3.2.2.jar"
+      "mods/twilightdelight-3.2.2.jar",
+      "mods/createcobblestone-1.4.12+neoforge-1.21.1-144.jar",
+      "mods/create_trimmed.jar",
+      "mods/pmmo_farmers_compat-1.21.1-1.2.2.jar",
+      "mods/tf_dnv-2.0.3.jar",
+      "mods/xpfarming-1.2.0-neoforge-1.21.1.jar"
     ],
     "files": [
       "mods/boogeraids-1.2-balls_edition.jar",
@@ -355,6 +360,7 @@
       "mods/create_aeronautics_toolgun-0.3.2.jar",
       "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
       "mods/cbc_going_ballistic-0.2.1.jar",
+      "mods/createcobblestone-1.4.12+neoforge-1.21.1-144.jar",
       "mods/createcontraptionterminals-1.21-1.3.0.jar",
       "mods/createdeco-2.1.3.jar",
       "mods/createpropulsion-1.1.4.jar",
@@ -393,6 +399,7 @@
       "mods/create_radar-0.4.9.4-1.21.1.jar",
       "mods/repackaged-0.0.7.jar",
       "mods/trading_floor-3.0.16.jar",
+      "mods/create_trimmed.jar",
       "mods/crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
       "mods/crystal_chronicles-0.1.3-alpha.jar",
       "mods/curios-neoforge-9.5.1+1.21.1.jar",
@@ -466,6 +473,7 @@
       "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
       "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "mods/pmmo_farmers_compat-1.21.1-1.2.2.jar",
       "mods/prometheus-neoforge-1.21-1.2.5.jar",
       "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
       "mods/Quad-1.2.9+1.21.1-Neo.jar",
@@ -505,6 +513,7 @@
       "mods/toms_storage-1.21-2.4.0.jar",
       "mods/torchmaster-neoforge-1.21.1-21.1.9.jar",
       "mods/trade-cycling-neoforge-1.21.1-1.0.18.jar",
+      "mods/tf_dnv-2.0.3.jar",
       "mods/twilightdelight-3.2.2.jar",
       "mods/villager_farmer_house-1.0.0-neoforge-1.21.1.jar",
       "mods/waystones-neoforge-1.21.1-21.1.37.jar",
@@ -512,6 +521,7 @@
       "mods/wizardshelp-1.0.0.jar",
       "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
       "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+      "mods/xpfarming-1.2.0-neoforge-1.21.1.jar",
       "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "mods/YouDied-neoforge-1.21-4.0.0.19.jar",
       "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
