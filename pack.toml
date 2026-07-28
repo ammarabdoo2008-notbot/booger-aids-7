@@ -1,12 +1,12 @@
 name = "Booger aids 7"
 author = ""
-version = "1.0.54"
+version = "1.0.55"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea717e394e98f9b64de3ae32abe47ea4490546b1bbee991c2f9fa1cdd45cfa60"
+hash = "1f39d36b12bcbcb52baa9fb0b8dc6e7c6698711c5686da0e6bf5b8d763c7449d"
 
 [versions]
 minecraft = "1.21.1"

@@ -72,12 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-13-0-11-neoforge.pw.toml"
-hash = "e43efff4be014f2684e55308982661b0c3446bb08bbe35a1f7812a017331afc8"
-metafile = true
-
-[[files]]
-file = "mods/architectury-13-0-8-neoforge.pw.toml"
-hash = "671742b2e2fe8a5acf16bee187083878035a4f7f854332a7ec2cf970349a7eea"
+hash = "01478fb1350a3e7e0eae65b669bce67a59edbb1b2b67037d983f808c5a9ace04"
 metafile = true
 
 [[files]]
@@ -136,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus-neoforge-7-0-1-1-21-1.pw.toml"
-hash = "91ed2c2a1d1dc68ef106b6e93ee11224dd38a809a498427c7e42c749f3d8166a"
+hash = "0fff45d6fc390797e7c563f4a90ea5e6df36ba23d2acfa9f9194a5f3100389e5"
 metafile = true
 
 [[files]]
@@ -196,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-15-0-140-neoforge.pw.toml"
-hash = "1a07e0e1f50932acbe39335133935c96b0a5316764eb635703e7c8c90e947d50"
+hash = "5426894bd7d0982e5bd3031063ed3959c187e971a344864bcc9cf2a3dd49bb1d"
 metafile = true
 
 [[files]]
@@ -220,9 +215,8 @@ hash = "6ae22d849139c3c288c4f664903e917e1c9ee3d266ed17feb64352dde074ef10"
 metafile = true
 
 [[files]]
-file = "mods/coopmod-1-0-0.pw.toml"
-hash = "2fbba6dd44739616ae752f470c0ec0a8f372e8d6c8118e4771ad8a6fce8baa3c"
-metafile = true
+file = "mods/coopmod-1.0.0.jar"
+hash = "e7da1ca11332e1052df12441a867ca6c7efcb5b195c772f4cf57d640c7d05657"
 
 [[files]]
 file = "mods/copycats-3-0-4-mc-1-21-1-neoforge.pw.toml"
@@ -445,11 +439,6 @@ hash = "4e50845e782cee6d0bd8e5403ddfbfd7a20533cda2ad968cf045bfd4c193ee05"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml"
-hash = "db7a3e6a55606a34a37ac61bf24de69f2c1ec20ef5aa4cdf3e4a081f69f9b7df"
-metafile = true
-
-[[files]]
 file = "mods/dndesires-1-21-1-2-3a-beta.pw.toml"
 hash = "fa85a26d555ee5120c5493b5a2572ebc572794445529f3216b767e17c0bfc619"
 metafile = true
@@ -472,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/enderscape-neoforge-1-0-9-mc1-21-1.pw.toml"
 hash = "804aad9bffedb6936398b4c374604a1207c7789b6b841378f638568e597a1282"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-arcana-1-1-0.pw.toml"
+hash = "9080c5ebb0f4b4cfe7c8dc6f12826c6731ab203157be7521020852849294b301"
 metafile = true
 
 [[files]]
@@ -505,6 +499,11 @@ hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
 
 [[files]]
+file = "mods/firesenderexpansion-2-4-1.pw.toml"
+hash = "7c3a6fd745c6644c6c420b95fe15b688e88999dab9ff51feffe344625a7b2757"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-neoforge-2101-1-33.pw.toml"
 hash = "5842a80a3b5b74e096e48275515680c42a4cfc8b261998fa5b7ce348699314ab"
 metafile = true
@@ -525,13 +524,13 @@ hash = "dbab45bb21d7d60477b084fb1c6ecb5313bbea285302140041a79862d01547fb"
 metafile = true
 
 [[files]]
-file = "mods/fwa-1-21-1-neoforge-1-2-31.pw.toml"
-hash = "4b6c6eda395cbd12a2723dad7325678a8d5a25265a119b9b5695a6d48ebacd28"
+file = "mods/fzzy-config-0-7-6-1-21-neoforge.pw.toml"
+hash = "bf9c5f73de1570ecfd91dfc2dcd1826667348ac0f87f04e30a527037d8fa6413"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config-0-7-6-1-21-neoforge.pw.toml"
-hash = "bf9c5f73de1570ecfd91dfc2dcd1826667348ac0f87f04e30a527037d8fa6413"
+file = "mods/gaze-1-1-7-1.pw.toml"
+hash = "36a0f3cce7ea89db816b12d8d77d783be5d2ea693dcfa844a9b6dee90c2b9134"
 metafile = true
 
 [[files]]
@@ -560,13 +559,8 @@ hash = "db68290196522ab25362b07a4a12896ae19277e7076103f5c9f4bb3651007661"
 metafile = true
 
 [[files]]
-file = "mods/hazennstuff-1-4-0-14.pw.toml"
-hash = "8a2a77df44d8a5c5b41c63c63f75c14d8948ab0e029c44e0f777746a45118b28"
-metafile = true
-
-[[files]]
 file = "mods/hazentouvelib-1-0-8.pw.toml"
-hash = "1124ec56b13a5d59c112d86c0c4e0aa165ffd49da4f30eca8e79df69e673df21"
+hash = "8ed4acbd944774e13a18156d8ed284ddbaece10c7260883051699ce35a5f0fbe"
 metafile = true
 
 [[files]]
@@ -611,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spellbooks-1-21-1-3-16-2.pw.toml"
-hash = "d98a79e02419b3a778d4ef957c0189b9307b3adb5b77a8b0540f6ea41c643bc8"
+hash = "b306057ca7e332ac36abcb39a81b299d0b492b08c068506ef70a13c9dff371cb"
 metafile = true
 
 [[files]]
@@ -632,6 +626,16 @@ metafile = true
 [[files]]
 file = "mods/jei-1-21-1-neoforge-19-39-0-369.pw.toml"
 hash = "6a3316abf6da74f33c5f2d6d09b4014f78df20efabd6020abc0e09930765f769"
+metafile = true
+
+[[files]]
+file = "mods/jei-1-21-1-neoforge-19-42-0-384.pw.toml"
+hash = "4f190223ad68b998cf8a889896f867a24a12000cb23c7b1ed893b98e55420fa0"
+metafile = true
+
+[[files]]
+file = "mods/jei-malum-1-0.pw.toml"
+hash = "b3bff6780623293dad24094067ab088f57931bb5a63441aad5ff3c86a1c1f521"
 metafile = true
 
 [[files]]
@@ -660,8 +664,23 @@ hash = "a79861df079ee27c4f7384b0ad2613965dfa4162ad068cfad57811c6f5d0b3ba"
 metafile = true
 
 [[files]]
+file = "mods/lodestone-1-21-1-1-8-2.pw.toml"
+hash = "cb2ccd2f1efc0374a593aebbde7c2b14a2271a64c33d1a6a47a087625df24a07"
+metafile = true
+
+[[files]]
 file = "mods/lootlog-neoforge-1-0-0.pw.toml"
 hash = "90f3f48886e4b4041252c1e751c22ef35b0273eaed578e2bfd67ccb616fb5ebf"
+metafile = true
+
+[[files]]
+file = "mods/malstone-1-0-5-0-neoforge.pw.toml"
+hash = "fa9a8f1d97d123ea1b4ded2152377d612fc7a887693c1c5e929f5a9cffeffdfc"
+metafile = true
+
+[[files]]
+file = "mods/malum-1-21-1-1-8-2.pw.toml"
+hash = "82510d16234713121091fb2c4dd2bd2d1882df8b11e74af78aaab659b32cd2d4"
 metafile = true
 
 [[files]]
@@ -737,11 +756,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-recipe-book-neoforge-0-4-3-1-21.pw.toml"
 hash = "e2aea7ac9910adfd65ff82a96eea668cc0155a13b3346347858c29a6e3861b73"
-metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-neoforge-1-12-4-mc1-21-1.pw.toml"
-hash = "8ae12dd4c52dab53aa307eaf941936d06901b495d2c32434fa4cbcce5d2588b8"
 metafile = true
 
 [[files]]
@@ -926,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-neoforge-0-8-12-mc1-21-1.pw.toml"
-hash = "dd9dc09af33d68dca150c03a921a80a0489afd15a1e5623eb4d4a2ced05b5950"
+hash = "c30362168a6479b56909ec86b359a84bc0a3acea07bd672624f5bd15ebf9dbff"
 metafile = true
 
 [[files]]
@@ -1105,8 +1119,13 @@ hash = "2bcc9ab3c98e464095773c94771c969f4049a7b45a4d8415c88cee5d3f53276a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/musgo.pw.toml"
-hash = "8f1e8e1d81aefc01919fdc234a12a8be23554e46320045b9b9be5085b7193a2d"
+file = "resourcepacks/classic-tools-fusion-compats.pw.toml"
+hash = "0cb726347ec7ffbb066869983e6b7167f0db8f9011d66ab6fb39fb7c2e7e9b50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lowonfire-v26-2-8.pw.toml"
+hash = "945553a9c7f0ede61edd5d9db8174c28fd646b04811f7c129dc080d672635c72"
 metafile = true
 
 [[files]]

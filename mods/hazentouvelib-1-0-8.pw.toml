@@ -3,10 +3,10 @@ filename = "hazentouvelib-1.0.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nZaIUw7C/versions/YX7dC2gE/hazentouvelib-1.0.8.jar"
-hash-format = "sha512"
-hash = "73bbc7847313297ec61451ba7c47e268391ab8816a7c3837ce2072bf4d9c7ba2573c0d1d374ef3be28b0ebba27f7c7c4e082fa48ec57afa3745a2a58a4c01999"
+hash-format = "sha1"
+hash = "c768d6b1a1b11322d2cee7aff82aac17c46508a0"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "nZaIUw7C"
-version = "YX7dC2gE"
+[update.curseforge]
+project-id = 1528722
+file-id = 8275040

@@ -1,0 +1,12 @@
+name = "Classic Tools Fusion Compats"
+filename = "Classic Tools Fusion Compats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O1bimAsf/versions/jNTzqIGZ/Classic%20Tools%20Fusion%20Compats.zip"
+hash-format = "sha512"
+hash = "29179aa1114160c051129cbb8033099ee9ded6551996d2a5796ad0a7b451b8ee2c036f47084ac38d91dec70e4b224b477ed1cf52c5ca020fbc99072181d70ad8"
+
+[update.modrinth]
+mod-id = "O1bimAsf"
+version = "jNTzqIGZ"
