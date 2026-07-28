@@ -445,6 +445,11 @@ hash = "4e50845e782cee6d0bd8e5403ddfbfd7a20533cda2ad968cf045bfd4c193ee05"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml"
+hash = "db7a3e6a55606a34a37ac61bf24de69f2c1ec20ef5aa4cdf3e4a081f69f9b7df"
+metafile = true
+
+[[files]]
 file = "mods/dndesires-1-21-1-2-3a-beta.pw.toml"
 hash = "fa85a26d555ee5120c5493b5a2572ebc572794445529f3216b767e17c0bfc619"
 metafile = true
@@ -532,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib-neoforge-1-21-1-4-9-2.pw.toml"
 hash = "a78e6392acb7981827739dc83ba54a696a85cc903bdad4b656df8be1e161204c"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore-neoforge-1-21-1-2-1-0-2.pw.toml"
+hash = "484e504a9a7dce5a5477026d0b06fb19428e148d25e48a0478fde934bbdbf05a"
 metafile = true
 
 [[files]]
@@ -725,6 +735,11 @@ hash = "339fdd65e993e1882200bdec2ec508e34f008d64b45cabbf0df5265d224a46c8"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-recipe-book-neoforge-0-4-3-1-21.pw.toml"
+hash = "e2aea7ac9910adfd65ff82a96eea668cc0155a13b3346347858c29a6e3861b73"
+metafile = true
+
+[[files]]
 file = "mods/notenoughanimations-neoforge-1-12-4-mc1-21-1.pw.toml"
 hash = "8ae12dd4c52dab53aa307eaf941936d06901b495d2c32434fa4cbcce5d2588b8"
 metafile = true
@@ -867,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/searchables-neoforge-1-21-1-1-0-2.pw.toml"
 hash = "3e4f10e6a4af780cc628cfec8a59c3aeaf28a986761ab7973168e8571a22b4bc"
+metafile = true
+
+[[files]]
+file = "mods/sereneseasons-neoforge-1-21-1-10-1-0-3.pw.toml"
+hash = "049eded9ec046b094931a20db79e587d2cbee47411aab8628153187d9052fa00"
 metafile = true
 
 [[files]]
@@ -1030,6 +1050,11 @@ hash = "44df186f9b92acb80205b232011e5859fc328388b41c7030256323cd28699a6b"
 metafile = true
 
 [[files]]
+file = "mods/villager-windmill-1-0-0-neoforge-1-21-1.pw.toml"
+hash = "15e69d03118a052fb8a96c55529def6c38640d1b6aeff7af2bde4910525452b4"
+metafile = true
+
+[[files]]
 file = "mods/voicechat-neoforge-1-21-1-2-6-21.pw.toml"
 hash = "a0d5c0dd3e6cf5c2927ca322371e2e2257c0aae6b028d488426a51e2e195a7ef"
 metafile = true
@@ -1077,6 +1102,11 @@ metafile = true
 [[files]]
 file = "mods/yungsapi-1-21-1-neoforge-5-1-6.pw.toml"
 hash = "2bcc9ab3c98e464095773c94771c969f4049a7b45a4d8415c88cee5d3f53276a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/musgo.pw.toml"
+hash = "8f1e8e1d81aefc01919fdc234a12a8be23554e46320045b9b9be5085b7193a2d"
 metafile = true
 
 [[files]]

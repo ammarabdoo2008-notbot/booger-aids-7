@@ -1,0 +1,12 @@
+name = "Villager’s Windmill"
+filename = "villager_windmill-1.0.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rsZv4DTg/versions/3LYdwccr/villager_windmill-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d702e3f687cfb5a4597b2a81cd84906b8af9abc7f6ea0512eb93ef5541be5623ff1ef982b8baad3e06981f4fba0c30063ba5eba07b56eb8cf3f975ca9cb28477"
+
+[update.modrinth]
+mod-id = "rsZv4DTg"
+version = "3LYdwccr"
