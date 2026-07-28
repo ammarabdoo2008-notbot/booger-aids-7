@@ -559,11 +559,6 @@ hash = "db68290196522ab25362b07a4a12896ae19277e7076103f5c9f4bb3651007661"
 metafile = true
 
 [[files]]
-file = "mods/hazentouvelib-1-0-8.pw.toml"
-hash = "8ed4acbd944774e13a18156d8ed284ddbaece10c7260883051699ce35a5f0fbe"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast-neoforge-1-6-11-1-21-1.pw.toml"
 hash = "0dc5007b8f36a7eec3c21285febcdf2dcc8a246011a835f6627883f2b78d58ce"
 metafile = true
