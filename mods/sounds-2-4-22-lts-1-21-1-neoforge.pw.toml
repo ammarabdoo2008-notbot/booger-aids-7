@@ -10,3 +10,7 @@ hash = "0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb01
 [update.modrinth]
 mod-id = "ZouiUX7t"
 version = "kti7i9SG"
+
+[option]
+optional = true
+default = true

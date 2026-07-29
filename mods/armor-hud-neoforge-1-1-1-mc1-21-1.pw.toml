@@ -1,0 +1,16 @@
+name = "guy's Armor HUD"
+filename = "armor_hud-neoforge-1.1.1+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AwhZoZsw/versions/lmJoTyLR/armor_hud-neoforge-1.1.1%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "3729af4e170cf8e7ec86e46a6d095db7ed38819f5349ca872705084909b064009ee67086794abf165dacacbd9db8967137f9a49ac017025efbe62c3073e30686"
+
+[update.modrinth]
+mod-id = "AwhZoZsw"
+version = "lmJoTyLR"
+
+[option]
+optional = true
+default = true

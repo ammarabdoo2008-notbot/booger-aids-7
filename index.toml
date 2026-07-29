@@ -76,6 +76,11 @@ hash = "01478fb1350a3e7e0eae65b669bce67a59edbb1b2b67037d983f808c5a9ace04"
 metafile = true
 
 [[files]]
+file = "mods/armor-hud-neoforge-1-1-1-mc1-21-1.pw.toml"
+hash = "8a0b42d1add8fe0ab9fef407f7889fa9564425c5bf68e34f8faa893cb0374cfe"
+metafile = true
+
+[[files]]
 file = "mods/artifacts-neoforge-13-2-1.pw.toml"
 hash = "f19a02f7cb683e6ed4dac2bc02cae8cf179687bb8705115111031fad1466ae7f"
 metafile = true
@@ -814,6 +819,11 @@ hash = "39c39bb691265af88b92050c8cd2945ba58f4bb866762350c3179cfd311c2c64"
 metafile = true
 
 [[files]]
+file = "mods/punchy-2-6-2-neoforge-1-21-1.pw.toml"
+hash = "c1e52f763ddb08becaa48b2707900d71bfbda1284b97ac772f8acdbd26d6e589"
+metafile = true
+
+[[files]]
 file = "mods/puzzleslib-v21-1-52-1-21-1-neoforge.pw.toml"
 hash = "c38f43ba3ccbd57b235c365336f2330019dfbe7225f2514175b88331b588bdbe"
 metafile = true
@@ -970,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/sounds-2-4-22-lts-1-21-1-neoforge.pw.toml"
-hash = "5298077320fd9554f97e30b71a14f0acb4fe0c6bfa62dabece1fd370a4dcc02c"
+hash = "540013f425c53ca14e242ed3e10016b94b1b102271ac0af135fd592b7ca201ec"
 metafile = true
 
 [[files]]
@@ -1094,11 +1104,6 @@ hash = "8b08c3b7d90df92592c973778b92586480a0027fd503969d58cba5bd77468b93"
 metafile = true
 
 [[files]]
-file = "mods/xpfarming-1-2-0-neoforge-1-21-1.pw.toml"
-hash = "88cb946b6ceab774398c36288818785ea7ee5019197ef10ef32e64a51fc0828e"
-metafile = true
-
-[[files]]
 file = "mods/yet-another-config-lib-v3-3-8-2-1-21-1-neoforge.pw.toml"
 hash = "dc811cdba73fb62f983b04752cc8ac48820880881218cbfd25cccb8d16046fcb"
 metafile = true
@@ -1119,8 +1124,28 @@ hash = "0cb726347ec7ffbb066869983e6b7167f0db8f9011d66ab6fb39fb7c2e7e9b50"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode-1-20-2-2025-5-0.pw.toml"
+hash = "e6769b2516abcdc9167474244920ab0ddd0a61d322237e428b5f3bf523dd3655"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchantment-outlines.pw.toml"
+hash = "a4d77bff6f4761cd251e2e5283a5f8f482796d2d5fda774e7ba8102b89be652c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/evenbetterenchants-v2-r1.pw.toml"
+hash = "eafb0a7c538cc67e8e32534020570109a14bd7595bf02ccc0550cdf884b53c3e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones.pw.toml"
+hash = "ffd74e362e8ec57c401408b2c85540453bc0fa7bf734c6c8311eaf7c2246b76a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lowonfire-v26-2-8.pw.toml"
-hash = "945553a9c7f0ede61edd5d9db8174c28fd646b04811f7c129dc080d672635c72"
+hash = "1ed55be900fc665bc0e6594e26e7c3803dace101cb9f0a1469328684dde1f7b8"
 metafile = true
 
 [[files]]

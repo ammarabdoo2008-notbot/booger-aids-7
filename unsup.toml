@@ -13,11 +13,20 @@ id = "ana_gablooty"
 name = "Ana gablooty"
 description = "gabalah confirmed"
 
+[metafile."/mods/armor-hud-neoforge-1-1-1-mc1-21-1.pw.toml"]
+flavors = ["ana_msh_gablooty"]
+
 [metafile."/mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"]
 flavors = ["ana_msh_gablooty"]
 
 [metafile."/mods/lootlog-neoforge-1-0-0.pw.toml"]
-flavors = ["ana_gablooty"]
+flavors = ["ana_msh_gablooty"]
+
+[metafile."/mods/sounds-2-4-22-lts-1-21-1-neoforge.pw.toml"]
+flavors = ["ana_msh_gablooty"]
+
+[metafile."/resourcepacks/lowonfire-v26-2-8.pw.toml"]
+flavors = ["ana_msh_gablooty"]
 
 [metafile."/shaderpacks/complementaryreimagined-r5-8-1.pw.toml"]
 flavors = ["ana_msh_gablooty"]

@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger aids 7",
   "author": "",
-  "version": "1.0.56",
+  "version": "1.0.57",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -301,7 +301,6 @@
       "mods/create_trimmed.jar",
       "mods/pmmo_farmers_compat-1.21.1-1.2.2.jar",
       "mods/tf_dnv-2.0.3.jar",
-      "mods/xpfarming-1.2.0-neoforge-1.21.1.jar",
       "mods/enderscape-neoforge-1.0.9+mc1.21.1.jar",
       "mods/MyNethersDelight-1.21.1-1.10.2.jar",
       "mods/trimmed-neo-1.21-3.0.0.jar",
@@ -348,7 +347,12 @@
       "mods/lodestone-1.21.1-1.8.2.jar",
       "mods/malstone-1.0.5.0-neoforge.jar",
       "mods/malum-1.21.1-1.8.2.jar",
-      "mods/dreamless_spells-1.1.9.jar"
+      "mods/dreamless_spells-1.1.9.jar",
+      "resourcepacks/Default-Dark-Mode-1.20.2+-2025.5.0.zip",
+      "resourcepacks/Enchantment Outlines.zip",
+      "resourcepacks/EvenBetterEnchants_v2_r1.zip",
+      "resourcepacks/fresh_waystones.zip",
+      "mods/armor_hud-neoforge-1.1.1+mc1.21.1.jar"
     ],
     "files": [
       "mods/boogeraids-1.2-balls_edition.jar",
@@ -454,14 +458,17 @@
       "mods/darkdoppelganger-3.3.0-1.21.1.jar",
       "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar",
       "mods/darkermagic-1.3.3-1.21.1-ver.b.jar",
+      "resourcepacks/Default-Dark-Mode-1.20.2+-2025.5.0.zip",
       "mods/delightlib-26.05.18-1.21-neoforge.jar",
       "mods/discerning_the_eldritch-1.4.3-1.21.jar",
       "mods/dream_relics-1.0.3-neoforge+mc1.21.1.jar",
       "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
       "mods/enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "resourcepacks/Enchantment Outlines.zip",
       "mods/enderscape-neoforge-1.0.9+mc1.21.1.jar",
       "mods/enigmatic_arcana-1.1.0.jar",
       "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "resourcepacks/EvenBetterEnchants_v2_r1.zip",
       "shaderpacks/Fantasy Shaders Reimagined v1.1.zip",
       "shaderpacks/Fantasy Shaders Unbound v1.1.zip",
       "mods/FarmersDelight-1.21.1-1.3.2.jar",
@@ -469,6 +476,7 @@
       "mods/farmersknives-neoforge-1.21.1-4.2.0.jar",
       "mods/ferritecore-7.0.3-neoforge.jar",
       "mods/firesenderexpansion-2.4.1.jar",
+      "resourcepacks/fresh_waystones.zip",
       "mods/ftb-library-neoforge-2101.1.33.jar",
       "mods/ftb-ultimine-neoforge-2101.1.15.jar",
       "mods/fullbright-multiplayer-1.4.jar",
@@ -480,6 +488,7 @@
       "mods/gravestone_sable_compat-1.0.0.jar",
       "mods/gravestone-neoforge-1.21.1-1.0.37.jar",
       "mods/gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar",
+      "mods/armor_hud-neoforge-1.1.1+mc1.21.1.jar",
       "mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
       "mods/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -530,6 +539,7 @@
       "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
       "mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "mods/prometheus-neoforge-1.21-1.2.5.jar",
+      "mods/punchy-2.6.2-neoforge-1.21.1.jar",
       "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
       "mods/Quad-1.2.9+1.21.1-Neo.jar",
       "mods/RamadanDelight-1.21.1-1.7.jar",
@@ -597,6 +607,18 @@
       "mods/YouDied-neoforge-1.21-4.0.0.19.jar": {
         "default": true,
         "description": "You died"
+      },
+      "mods/punchy-2.6.2-neoforge-1.21.1.jar": {
+        "default": false,
+        "description": ""
+      },
+      "resourcepacks/Enchantment Outlines.zip": {
+        "default": false,
+        "description": ""
+      },
+      "resourcepacks/EvenBetterEnchants_v2_r1.zip": {
+        "default": false,
+        "description": ""
       }
     },
     "flavor_groups": [
@@ -622,11 +644,20 @@
       }
     ],
     "flavor_assignments": {
+      "mods/armor_hud-neoforge-1.1.1+mc1.21.1.jar": [
+        "ana_msh_gablooty"
+      ],
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar": [
         "ana_msh_gablooty"
       ],
       "mods/lootlog-neoforge-1.0.0.jar": [
-        "ana_gablooty"
+        "ana_msh_gablooty"
+      ],
+      "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar": [
+        "ana_msh_gablooty"
+      ],
+      "resourcepacks/LowOnFire v26.2§8.zip": [
+        "ana_msh_gablooty"
       ],
       "shaderpacks/ComplementaryReimagined_r5.8.1.zip": [
         "ana_msh_gablooty"
