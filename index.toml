@@ -6,6 +6,11 @@ hash = "1fda5037946f6d637abe18a550ce183f740e194b5eb2fe5114269f4ea7ba392c"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals-1-21-1-0-7-62b.pw.toml"
+hash = "bb02381e1ac412b453557a3557fd82ed0846aaa0e20baf1a9e80fa656faf6051"
+metafile = true
+
+[[files]]
 file = "mods/aeroconnectedfluidvessel-1-0-0.pw.toml"
 hash = "bec7a5b2357aa1a44109792576b63b19df50280960feb2ad4a18e49f35988fea"
 metafile = true
@@ -210,11 +215,6 @@ hash = "d2dcd549fc1e42f700c94d596ba44f76f42fae426010707f2c1b72b2c85846e2"
 metafile = true
 
 [[files]]
-file = "mods/constructionwandsrevived-1-21-1-4-2-2-neoforge.pw.toml"
-hash = "46202262c67901aa4da267194b904a0592961a6964f066a2ad3703fa7d238ce1"
-metafile = true
-
-[[files]]
 file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
 hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
 metafile = true
@@ -266,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/create-avionics-neoforge-1-21-1-0-5-1.pw.toml"
 hash = "4bf3ba558f5985ce48eb3f9baa64d4358fc4ff6548f8c24c5063f7544421da37"
+metafile = true
+
+[[files]]
+file = "mods/create-blueprinted-2-0.pw.toml"
+hash = "6003c42bd860a3923e8d8a7b066039f713d9875109f946dd3983e18c34d4ed50"
 metafile = true
 
 [[files]]
@@ -336,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/createbigcannons-5-11-7-mc-1-21-1.pw.toml"
 hash = "e89f781dbcdf95fb0937456c66d8c1092d0d15b2d57f61dbaa65467915b8e1f2"
+metafile = true
+
+[[files]]
+file = "mods/createcclogistics-1-21-1-0-3-6.pw.toml"
+hash = "a8da25e106057815404cee22a5bdf43f467463494969a57383679aca93cfffa6"
 metafile = true
 
 [[files]]
@@ -464,8 +474,8 @@ hash = "67241a713fbf873928f39f4f7bc7661cb4f2fdcc70a8fe41cdaee8df1faee024"
 metafile = true
 
 [[files]]
-file = "mods/easybuilding-neoforge-1-21-1-v1-1.pw.toml"
-hash = "621b5523228e101197f56b33e4088732f3788fdcdbdecb7fb43d0e4a982711b7"
+file = "mods/effortlessbuilding-4-2-1-21-1.pw.toml"
+hash = "d08dc3f8bc9fec679ff0dccd78969d6ca6a1db3d781f4fa2f49a370ee01aadb5"
 metafile = true
 
 [[files]]
@@ -590,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventoryparticles-2-6-0-1-21-1-neoforge.pw.toml"
-hash = "c4a99ef2e0491830ae818ee58dfbf75b39c4d820ca2a0071b2999699887d7591"
+hash = "5af8ee24e53ad91ce866d35f2d25b1a5841fe42a96ab498b2419c0f4cfc89882"
 metafile = true
 
 [[files]]
@@ -1110,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/windy-1-1-1-1-21-neoforge.pw.toml"
-hash = "3174a7688c83d3d9009111f2faf3dcd72bb6b9d7e4b847f702721df97f13afcb"
+hash = "fee87dc67dcdd4e05f418c3d0924680da6b8860ebf774d687db6c00fe4253289"
 metafile = true
 
 [[files]]
@@ -1145,12 +1155,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/classic-tools-fusion-compats.pw.toml"
-hash = "0cb726347ec7ffbb066869983e6b7167f0db8f9011d66ab6fb39fb7c2e7e9b50"
+hash = "6081ac807178a11e56c0b127afc6decf255738903385bae2a6ab740877b50f45"
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode-1-20-2-2025-5-0.pw.toml"
-hash = "e6769b2516abcdc9167474244920ab0ddd0a61d322237e428b5f3bf523dd3655"
+hash = "65a2e01975bd4787118425381ad01003ce1075a6bd13881a9de0f5c34182eddf"
 metafile = true
 
 [[files]]
