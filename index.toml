@@ -210,6 +210,11 @@ hash = "d2dcd549fc1e42f700c94d596ba44f76f42fae426010707f2c1b72b2c85846e2"
 metafile = true
 
 [[files]]
+file = "mods/constructionwandsrevived-1-21-1-4-2-2-neoforge.pw.toml"
+hash = "46202262c67901aa4da267194b904a0592961a6964f066a2ad3703fa7d238ce1"
+metafile = true
+
+[[files]]
 file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
 hash = "835cd54467fde0a7fd34fc275beda8c7f1b9fe5663bbf51590f42ec783353d01"
 metafile = true
@@ -459,6 +464,11 @@ hash = "67241a713fbf873928f39f4f7bc7661cb4f2fdcc70a8fe41cdaee8df1faee024"
 metafile = true
 
 [[files]]
+file = "mods/easybuilding-neoforge-1-21-1-v1-1.pw.toml"
+hash = "621b5523228e101197f56b33e4088732f3788fdcdbdecb7fb43d0e4a982711b7"
+metafile = true
+
+[[files]]
 file = "mods/enchdesc-neoforge-1-21-1-21-1-10.pw.toml"
 hash = "e63484d4bd822cbd83a7a87319f56d231b0eb1f4874340a0d6d68c48c01d0403"
 metafile = true
@@ -576,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/interiors-1-21-1-neoforge-0-6-1.pw.toml"
 hash = "bb1882f0607681c2ad3dc85dc036234fe37dfaf4e86ed6f75909ed27247038da"
+metafile = true
+
+[[files]]
+file = "mods/inventoryparticles-2-6-0-1-21-1-neoforge.pw.toml"
+hash = "c4a99ef2e0491830ae818ee58dfbf75b39c4d820ca2a0071b2999699887d7591"
 metafile = true
 
 [[files]]
@@ -721,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/moredelight-26-05-20a-1-21-neoforge.pw.toml"
 hash = "2067c917cb3ecdd22614c3c007c72ff90f65e59a1233b7582eb2af1dd5de2273"
+metafile = true
+
+[[files]]
+file = "mods/mossylib-1-5-0-1-21-1-neoforge.pw.toml"
+hash = "424ba3d30f44621195897c0554b1ce1d42d1d0a9a3f622fc86ea150f00f93cbd"
 metafile = true
 
 [[files]]
@@ -1086,6 +1106,11 @@ metafile = true
 [[files]]
 file = "mods/waystones-neoforge-1-21-1-21-1-37.pw.toml"
 hash = "6571f924b09854ed4d63b044b0a131f0dfbbf7f548f83d66b97441f63685d325"
+metafile = true
+
+[[files]]
+file = "mods/windy-1-1-1-1-21-neoforge.pw.toml"
+hash = "3174a7688c83d3d9009111f2faf3dcd72bb6b9d7e4b847f702721df97f13afcb"
 metafile = true
 
 [[files]]
