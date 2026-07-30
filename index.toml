@@ -96,6 +96,11 @@ hash = "0a0102812c02bc6ab4479a3e7166d28d986945665162f33eed2dc3080c96bf51"
 metafile = true
 
 [[files]]
+file = "mods/autoreconnectrf-neoforge-2-0-1-1-21-1.pw.toml"
+hash = "971c070701ad7f49d10146613e520b4210f97e80e67b0229cd3091cdbe09f3ca"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-1-4-1.pw.toml"
 hash = "ba10e084e2d42c2bbc81eceadb508eb7394313c1e0b3c60e9c15a86c0e05d274"
 metafile = true
@@ -116,6 +121,11 @@ hash = "93d1867cd64693605cc09855a92f5bfceb61a29d2a8efc47c8ff6734848870d3"
 metafile = true
 
 [[files]]
+file = "mods/betterdays-1-21-1-3-3-6-3-neoforge.pw.toml"
+hash = "0b23ddec02832bd3c69c58886caa1e9b0704fdfc86eac2c2c55fdb851ce67e12"
+metafile = true
+
+[[files]]
 file = "mods/biolith-neoforge-3-0-14.pw.toml"
 hash = "5465d36cc5df2579276c2b2dfa822729a2c6da990e9163ae9b35e6e0acdaa3c0"
 metafile = true
@@ -131,8 +141,8 @@ hash = "007e2173aa45b92a9af91025ab53e2a920b0add8a2fbea55e3b7c5081568421d"
 metafile = true
 
 [[files]]
-file = "mods/boogeraids-1.5-balls_edition.jar"
-hash = "a5b7b9aa4d69607a491ef9fc05aea13d2733cd09d1e60fd43206e9df8d652597"
+file = "mods/boogeraids-1.6-balls_edition.jar"
+hash = "67257830adb07b36ed732ef413d212e766800d94aedd150376e97794aa420c9c"
 
 [[files]]
 file = "mods/bookshelf-neoforge-1-21-1-21-1-81.pw.toml"
@@ -175,6 +185,11 @@ hash = "b2e645203137c95ea6ee44433cd30bf30988949c0dc7a055070d7485a3f27250"
 metafile = true
 
 [[files]]
+file = "mods/cc-sable-neoforge-1-3-4.pw.toml"
+hash = "cc277702378101459e6c959bdfd1f0a1d2f5c4d5fce40c1c846c7caeb48bb84b"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked-1-21-1-forge-1-120-0.pw.toml"
 hash = "ade8bbbe974fe4469e364948d2bf2f31df91ab0edb31d2ec26917b296158cb5d"
 metafile = true
@@ -202,6 +217,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config-15-0-140-neoforge.pw.toml"
 hash = "5426894bd7d0982e5bd3031063ed3959c187e971a344864bcc9cf2a3dd49bb1d"
+metafile = true
+
+[[files]]
+file = "mods/clumps-neoforge-1-21-1-19-0-0-1.pw.toml"
+hash = "af9583d6cd53377057a58affdb4d3a529c2b08319029b9cb7f9c98d4cd07f71c"
+metafile = true
+
+[[files]]
+file = "mods/cmpackagecouriers-neoforge-2-3-0.pw.toml"
+hash = "af3a5a4941151436c5e207c5e02fd4d8501c22164fbecc834f1e9e1eb5f4e853"
 metafile = true
 
 [[files]]
@@ -301,11 +326,6 @@ metafile = true
 [[files]]
 file = "mods/create-gunsmithing-1-21-1-1-4-9.pw.toml"
 hash = "4b3ee6c50fc4e0706630c0ca507bf809842ccc5d368e2e24ba5be1c891bf5cc7"
-metafile = true
-
-[[files]]
-file = "mods/create-mobile-packages-1-21-1-0-7-7.pw.toml"
-hash = "93add1c752a670063c5f4ec295b42f28c9735eb77106c39718cb3debee1882a8"
 metafile = true
 
 [[files]]
@@ -499,6 +519,11 @@ hash = "14f3b633d77ee2fb32038dc46904e7e86135f85fc2719ddb391c41ee954b682a"
 metafile = true
 
 [[files]]
+file = "mods/exposure-neoforge-1-21-1-1-9-18.pw.toml"
+hash = "557a565d92a9d9a235d73905776c0c3fe846668a041de4a926b6aa0c8edde15f"
+metafile = true
+
+[[files]]
 file = "mods/extra-gauges-2-1-2.pw.toml"
 hash = "108c17062ef9181673949ab4a0a4d2d04927b3f0b531e456e4fc81bf1449c774"
 metafile = true
@@ -554,6 +579,11 @@ hash = "bf9c5f73de1570ecfd91dfc2dcd1826667348ac0f87f04e30a527037d8fa6413"
 metafile = true
 
 [[files]]
+file = "mods/gaboulibs-neoforge-1-8-1.pw.toml"
+hash = "cf46bec4b6afad142dc238faedad7b79d6eedcaea88304dfdd20cf117841e0d2"
+metafile = true
+
+[[files]]
 file = "mods/gaze-1-1-7-1.pw.toml"
 hash = "36a0f3cce7ea89db816b12d8d77d783be5d2ea693dcfa844a9b6dee90c2b9134"
 metafile = true
@@ -565,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore-neoforge-1-21-1-2-1-0-2.pw.toml"
-hash = "484e504a9a7dce5a5477026d0b06fb19428e148d25e48a0478fde934bbdbf05a"
+hash = "4dbfc698f4c722c104aee440c5984a2a93f18d618b3e614a85946be94ff10723"
 metafile = true
 
 [[files]]
@@ -779,6 +809,11 @@ hash = "9b965d900ad969f2d4ee6e6e5f620a183ba2ce5791753a780415b8b0457e6718"
 metafile = true
 
 [[files]]
+file = "mods/neoforge-version-serene-seasons-plus-1-21-1-5-1-1.pw.toml"
+hash = "5ece7c68b6d79b9346a64eedf6a8c5be1a232410d70bd39ba2aa4f85c34ae6f3"
+metafile = true
+
+[[files]]
 file = "mods/neondeco-1-2-0-a-neoforge-1-21-1.pw.toml"
 hash = "339fdd65e993e1882200bdec2ec508e34f008d64b45cabbf0df5265d224a46c8"
 metafile = true
@@ -806,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib-neoforge-0-12-15-5-beta-1-1-21.pw.toml"
 hash = "24fc29c82361af57147281a692e723451bd323b2a9ab714354c53b5d81d29364"
+metafile = true
+
+[[files]]
+file = "mods/packagerspsic-1-0-0.pw.toml"
+hash = "bd9adf15ff87933c4364a9b75f3f5d900319cdfb1d84c7e9477084b65fec6775"
 metafile = true
 
 [[files]]
@@ -935,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/sereneseasons-neoforge-1-21-1-10-1-0-3.pw.toml"
-hash = "049eded9ec046b094931a20db79e587d2cbee47411aab8628153187d9052fa00"
+hash = "54e7285da3b3ad788af89e3750a6b5bcc080895f108f6340f71d0c2915713b5b"
 metafile = true
 
 [[files]]
@@ -984,6 +1024,11 @@ hash = "696396aa4dc2e9f60de94a018046db78ae59e01fea4d2f95dd953e49fa069042"
 metafile = true
 
 [[files]]
+file = "mods/sophisticatedbackpacks-1-21-1-3-25-73-2020.pw.toml"
+hash = "01cb95702875e30f5bb12a766211db44b1124bfb58b505829320767b85770cb4"
+metafile = true
+
+[[files]]
 file = "mods/sophisticatedbackpackscreateintegration-1-21-1-0-1-8-134.pw.toml"
 hash = "b8ae7948fac1cb66200729d0f95eb7a55db7db56717f85e0a21f0eae952b9240"
 metafile = true
@@ -991,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedcore-1-21-1-1-4-77-2173.pw.toml"
 hash = "e4543029cc687e443d16568c17e08b8d779d4faf5fa90bffd5a87727a7cdfe39"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedcore-1-21-1-1-4-80-2194.pw.toml"
+hash = "48a17015ddaad16bd7506e17bb76b04e7b56493756682f8e268f8a2919f818c9"
 metafile = true
 
 [[files]]
@@ -1094,16 +1144,6 @@ hash = "3384bbf286990670a9c2badb8f8ae584ace816118fa2b846f7769622708171bb"
 metafile = true
 
 [[files]]
-file = "mods/villager-farmer-house-1-0-0-neoforge-1-21-1.pw.toml"
-hash = "44df186f9b92acb80205b232011e5859fc328388b41c7030256323cd28699a6b"
-metafile = true
-
-[[files]]
-file = "mods/villager-windmill-1-0-0-neoforge-1-21-1.pw.toml"
-hash = "15e69d03118a052fb8a96c55529def6c38640d1b6aeff7af2bde4910525452b4"
-metafile = true
-
-[[files]]
 file = "mods/voicechat-neoforge-1-21-1-2-6-21.pw.toml"
 hash = "a0d5c0dd3e6cf5c2927ca322371e2e2257c0aae6b028d488426a51e2e195a7ef"
 metafile = true
@@ -1154,9 +1194,8 @@ hash = "2bcc9ab3c98e464095773c94771c969f4049a7b45a4d8415c88cee5d3f53276a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/classic-tools-fusion-compats.pw.toml"
-hash = "6081ac807178a11e56c0b127afc6decf255738903385bae2a6ab740877b50f45"
-metafile = true
+file = "resourcepacks/CreateSophBackpacks.zip"
+hash = "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d"
 
 [[files]]
 file = "resourcepacks/default-dark-mode-1-20-2-2025-5-0.pw.toml"
