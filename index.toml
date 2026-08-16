@@ -692,11 +692,6 @@ hash = "33686342468da6a6d0fe0710ad945bc66b2e9a24d84ed847f90b018501fa3035"
 metafile = true
 
 [[files]]
-file = "mods/jei-1-21-1-neoforge-19-39-0-369.pw.toml"
-hash = "6a3316abf6da74f33c5f2d6d09b4014f78df20efabd6020abc0e09930765f769"
-metafile = true
-
-[[files]]
 file = "mods/jei-1-21-1-neoforge-19-42-0-384.pw.toml"
 hash = "4f190223ad68b998cf8a889896f867a24a12000cb23c7b1ed893b98e55420fa0"
 metafile = true
@@ -1046,11 +1041,6 @@ hash = "c30362168a6479b56909ec86b359a84bc0a3acea07bd672624f5bd15ebf9dbff"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1-21-1-3-25-71-1997.pw.toml"
-hash = "696396aa4dc2e9f60de94a018046db78ae59e01fea4d2f95dd953e49fa069042"
-metafile = true
-
-[[files]]
 file = "mods/sophisticatedbackpacks-1-21-1-3-25-73-2020.pw.toml"
 hash = "01cb95702875e30f5bb12a766211db44b1124bfb58b505829320767b85770cb4"
 metafile = true
@@ -1058,11 +1048,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedbackpackscreateintegration-1-21-1-0-1-8-134.pw.toml"
 hash = "b8ae7948fac1cb66200729d0f95eb7a55db7db56717f85e0a21f0eae952b9240"
-metafile = true
-
-[[files]]
-file = "mods/sophisticatedcore-1-21-1-1-4-77-2173.pw.toml"
-hash = "e4543029cc687e443d16568c17e08b8d779d4faf5fa90bffd5a87727a7cdfe39"
 metafile = true
 
 [[files]]
